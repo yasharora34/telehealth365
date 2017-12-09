@@ -1,0 +1,606 @@
+2017-11-09T09:49:49+00:00 CRITICAL Call to a member function get_url() on a non-object
+
+2017-11-09T09:49:54+00:00 CRITICAL Call to a member function get_url() on a non-object
+
+2017-11-10T07:57:13+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(109): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-manager.php(1029): WC_Abstract_Order->__construct(3140)
+#3 [internal function]: WC_Subscriptions_Manager::maybe_trash_subscription(3140)
+#4 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(298): call_user_func_array('WC_Subscription...', Array)
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /home/teleheal/public_html/
+
+2017-11-10T07:57:27+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(109): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-manager.php(1029): WC_Abstract_Order->__construct(3140)
+#3 [internal function]: WC_Subscriptions_Manager::maybe_trash_subscription(3140)
+#4 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(298): call_user_func_array('WC_Subscription...', Array)
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /home/teleheal/public_html/
+
+2017-11-10T09:38:51+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(109): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-manager.php(1029): WC_Abstract_Order->__construct(3140)
+#3 [internal function]: WC_Subscriptions_Manager::maybe_trash_subscription(3140)
+#4 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(298): call_user_func_array('WC_Subscription...', Array)
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /home/teleheal/public_html/
+
+2017-11-10T09:39:06+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php(109): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/classes/class-wc-subscriptions-manager.php(1029): WC_Abstract_Order->__construct(3140)
+#3 [internal function]: WC_Subscriptions_Manager::maybe_trash_subscription(3140)
+#4 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(298): call_user_func_array('WC_Subscription...', Array)
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#6 /home/teleheal/public_html/
+
+2017-11-10T12:08:50+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:09:03+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:09:04+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:09:04+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:09:41+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:11:42+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:11:43+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:13:34+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:13:40+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:14:06+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:14:15+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:14:30+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:14:31+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-10T12:14:33+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-11T05:31:31+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-11T05:31:39+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-11T07:29:14+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-11T07:33:34+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-11T07:54:56+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-11T08:06:54+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-11T08:27:34+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-11T08:32:35+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T05:29:35+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T05:51:24+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T05:53:06+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T05:54:43+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T05:54:58+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T05:57:01+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T07:53:01+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T07:53:10+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T07:58:22+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T07:58:27+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T07:58:44+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T08:00:23+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T08:24:35+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-13T08:27:54+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-13T08:28:06+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-13T10:00:34+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-13T10:00:46+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-13T10:09:00+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-13T14:09:43+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-14T06:19:40+00:00 CRITICAL Call to undefined function peint_r()
+
+2017-11-14T06:19:48+00:00 CRITICAL Call to undefined function peint_r()
+
+2017-11-14T06:43:36+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-14T10:09:09+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-14T11:07:01+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-14T11:37:59+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-14T11:38:07+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-14T12:50:27+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-14T13:21:14+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:04:34+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:11:47+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:11:59+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:13:31+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:20:18+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:21:15+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:23:34+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:23:39+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:23:47+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:24:08+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:24:43+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:32:41+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:33:27+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:33:34+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:33:44+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:33:48+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:34:46+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:35:06+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:35:20+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:36:15+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:36:55+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:37:00+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:37:14+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:38:33+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:39:15+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:42:21+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:50:59+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T07:57:02+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T08:05:55+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-15T10:11:03+00:00 CRITICAL Call to undefined function product_exist_in_cart()
+
+2017-11-15T11:39:33+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T11:39:55+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T11:40:00+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T11:40:00+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T12:38:07+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T12:38:21+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T12:39:42+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T12:40:17+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T12:40:18+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-15T12:40:18+00:00 CRITICAL Call to undefined function wooslider()
+
+2017-11-21T07:23:41+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-21T07:23:45+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-21T07:23:48+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-21T12:15:33+00:00 CRITICAL Class 'WC_Cache_Helper' not found
+
+2017-11-21T12:17:19+00:00 CRITICAL Class 'WC_Widget_Cart' not found
+
+2017-11-21T13:50:39+00:00 CRITICAL Call to undefined function geturl()
+
+2017-11-22T05:35:59+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T05:36:28+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T05:36:45+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woo-includes/class.plugin-modules.php:21)
+
+2017-11-22T05:36:49+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T05:36:55+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T06:23:03+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T06:23:10+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T06:23:28+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T06:23:59+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T06:24:07+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T06:24:16+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T06:25:11+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T06:30:08+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:09+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:09+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:10+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:10+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:12+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:16+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T06:30:19+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions/includes/libraries/tlc-transients/class.plugin-modules.php:21)
+
+2017-11-22T09:20:18+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T09:20:42+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:21:43+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:21:49+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:22:23+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:22:42+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:22:59+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:23:55+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:24:24+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:26:25+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:27:42+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:28:25+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:28:25+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:28:40+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:28:40+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:28:42+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:30:00+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:30:29+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:30:39+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:31:47+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:32:13+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:32:15+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:32:21+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:32:57+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:33:13+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce-subscriptions-2.1.1/includes/libraries/action-scheduler/class.plugin-modules.php:21)
+
+2017-11-22T09:33:44+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T09:34:13+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-22T09:34:55+00:00 CRITICAL Class 'WC_Subscriptions_Manager' not found
+
+2017-11-24T09:48:41+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:49:56+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:50:39+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:51:51+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:52:40+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:53:02+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:53:03+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:53:48+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:54:03+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:54:32+00:00 CRITICAL Class 'WP_Locale_Switcher' not found
+
+2017-11-24T09:54:34+00:00 CRITICAL Cannot redeclare wp_ajax_press_this_save_post() (previously declared in /home/teleheal/public_html/dsite/wp-includes/deprecated.php:3921)
+
+2017-11-24T09:55:31+00:00 CRITICAL Class 'WP_Widget_Media_Audio' not found
+
+2017-11-24T09:55:45+00:00 CRITICAL Class 'WP_Widget_Media_Audio' not found
+
+2017-11-27T09:54:35+00:00 CRITICAL Cannot use object of type WC_Subscription as array
+
+2017-11-27T10:40:51+00:00 CRITICAL Class 'RTCUsers' not found
+
+2017-11-28T04:49:55+00:00 CRITICAL Call to a member function get_value() on string
+
+2017-11-28T04:50:33+00:00 CRITICAL Call to a member function get_value() on string
+
+2017-11-28T07:01:23+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1566): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(495): getLicensePricing()
+#4 [internal function]: my_custome_login('')
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(286): call_user_func_array('my_custome_logi...', Array)
+#6 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('
+
+2017-11-28T07:03:31+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1570): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(495): getLicensePricing(1516)
+#4 [internal function]: my_custome_login('')
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(286): call_user_func_array('my_custome_logi...', Array)
+#6 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filte
+
+2017-11-28T07:05:09+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1572): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(495): getLicensePricing(1516)
+#4 [internal function]: my_custome_login('')
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(286): call_user_func_array('my_custome_logi...', Array)
+#6 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filte
+
+2017-11-28T07:05:45+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1572): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(495): getLicensePricing(1516)
+#4 [internal function]: my_custome_login('')
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(286): call_user_func_array('my_custome_logi...', Array)
+#6 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filte
+
+2017-11-28T07:07:58+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1570): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(495): getLicensePricing(1516)
+#4 [internal function]: my_custome_login('')
+#5 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(286): call_user_func_array('my_custome_logi...', Array)
+#6 /home/teleheal/public_html/dsite/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filte
+
+2017-11-28T07:22:19+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-28T11:28:50+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:31:05+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:34:45+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:35:18+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:36:44+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:37:35+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(33): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:40:27+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:41:03+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(38): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T11:42:27+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(38): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T12:28:18+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(35): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T12:34:25+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(38): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T12:36:03+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(38): getLicense()
+#4 {main}
+  thrown
+
+2017-11-28T12:38:32+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(38): getLicenseUser()
+#4 {main}
+  thrown
+
+2017-11-28T12:39:41+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid order.' in /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-data-store-cpt.php:89
+Stack trace:
+#0 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): Abstract_WC_Order_Data_Store_CPT->read(Object(WC_Order))
+#1 /home/teleheal/public_html/dsite/wp-content/plugins/woocommerce/includes/legacy/abstract-wc-legacy-order.php(663): WC_Data_Store->read(Object(WC_Order))
+#2 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/functions.php(1540): WC_Abstract_Legacy_Order->populate(NULL)
+#3 /home/teleheal/public_html/dsite/wp-content/themes/lifecare-child/guests-ajax.php(38): getLicenseUser()
+#4 {main}
+  thrown
+
+2017-11-29T05:18:59+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T05:20:44+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T05:22:49+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T05:25:19+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T05:32:06+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T05:55:16+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T10:26:21+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-29T11:58:46+00:00 CRITICAL Cannot use object of type stdClass as array
+
+2017-11-30T05:24:10+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-11-30T05:33:42+00:00 CRITICAL Cannot use object of type stdClass as array
+
+2017-11-30T05:34:10+00:00 CRITICAL Cannot use object of type stdClass as array
+
+2017-11-30T05:36:26+00:00 CRITICAL Cannot use object of type stdClass as array
+
+2017-12-04T04:53:35+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-04T07:44:35+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-04T10:31:15+00:00 CRITICAL Using $this when not in object context
+
+2017-12-04T10:36:28+00:00 CRITICAL Using $this when not in object context
+
+2017-12-04T10:38:04+00:00 CRITICAL Using $this when not in object context
+
+2017-12-04T10:43:15+00:00 CRITICAL Using $this when not in object context
+
+2017-12-04T10:45:28+00:00 CRITICAL Using $this when not in object context
+
+2017-12-04T10:46:05+00:00 CRITICAL Using $this when not in object context
+
+2017-12-04T10:57:29+00:00 CRITICAL Cannot use object of type WC_Subscription as array
+
+2017-12-04T10:58:12+00:00 CRITICAL Cannot use object of type WC_Subscription as array
+
+2017-12-04T10:58:37+00:00 CRITICAL Cannot use object of type WC_Subscription as array
+
+2017-12-04T11:56:25+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-04T12:47:26+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-05T04:55:31+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-06T05:18:42+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-06T10:34:35+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-07T09:26:06+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-08T05:29:00+00:00 CRITICAL Call to undefined function woo_main_before()
+
+2017-12-08T05:54:50+00:00 CRITICAL Call to undefined function woo_main_before()
+

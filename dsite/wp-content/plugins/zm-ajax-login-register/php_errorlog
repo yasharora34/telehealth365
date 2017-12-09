@@ -1,2 +1,0 @@
-[19-Jun-2016 13:57:18 CST6CDT] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/teleheal/public_html/dsite/wp-content/plugins/zm-ajax-login-register/plugin.php on line 13
-[31-Jul-2016 00:36:46 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/teleheal/public_html/dsite/wp-content/plugins/zm-ajax-login-register/deprecated.php on line 9

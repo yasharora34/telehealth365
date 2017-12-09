@@ -1,0 +1,5070 @@
+08-13-2016 @ 05:05:37 - Info: Begin processing payment for order 2876 for the amount of 30
+08-13-2016 @ 05:05:37 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 3000
+    [description] => Telehealth365 - Order 2876
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_18huKz2Dvr9PTHU3GOeAEL5G
+)
+
+08-13-2016 @ 05:05:38 - Error: card_declined: Your card was declined. Your request was in test mode, but used a non test card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+08-13-2016 @ 06:36:02 - Info: Begin processing payment for order 2877 for the amount of 1000
+08-13-2016 @ 06:36:02 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 100000
+    [description] => Telehealth365 - Order 2877
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_18hvkS2Dvr9PTHU3acrNfPMQ
+)
+
+08-13-2016 @ 06:36:03 - Processing response: stdClass Object
+(
+    [id] => ch_18hvkU2Dvr9PTHU3PmOuTvMi
+    [object] => charge
+    [amount] => 100000
+    [amount_refunded] => 0
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_18hvkV2Dvr9PTHU3VeMSvSYY
+            [object] => balance_transaction
+            [amount] => 100000
+            [available_on] => 1471392000
+            [created] => 1471070162
+            [currency] => usd
+            [description] => Telehealth365 - Order 2877
+            [fee] => 2930
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 2930
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 97070
+            [source] => ch_18hvkU2Dvr9PTHU3PmOuTvMi
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_18hvkU2Dvr9PTHU3PmOuTvMi
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1471070162
+    [currency] => usd
+    [customer] => 
+    [description] => Telehealth365 - Order 2877
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_18hvkU2Dvr9PTHU3PmOuTvMi/refunds
+        )
+
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_18hvkS2Dvr9PTHU3jRKEXVSL
+            [object] => card
+            [address_city] => San Jose
+            [address_country] => US
+            [address_line1] => Mother Diagnostic Center
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => prabirsaha100 prabirsaha100
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+08-13-2016 @ 06:36:03 - Successful charge: ch_18hvkU2Dvr9PTHU3PmOuTvMi
+10-30-2016 @ 20:51:07 - Info: Begin processing payment for order 2882 for the amount of 1000
+10-30-2016 @ 20:51:07 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 100000
+    [description] => Telehealth365 - Order 2882
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19AQGj2Dvr9PTHU3pFqSi3c6
+)
+
+10-30-2016 @ 20:51:08 - Processing response: stdClass Object
+(
+    [id] => ch_19AQGm2Dvr9PTHU3ME1jZMjb
+    [object] => charge
+    [amount] => 100000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19AQGm2Dvr9PTHU3ZmwdWR7p
+            [object] => balance_transaction
+            [amount] => 100000
+            [available_on] => 1478044800
+            [created] => 1477860668
+            [currency] => usd
+            [description] => Telehealth365 - Order 2882
+            [fee] => 2930
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 2930
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 97070
+            [source] => ch_19AQGm2Dvr9PTHU3ME1jZMjb
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19AQGm2Dvr9PTHU3ME1jZMjb
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1477860668
+    [currency] => usd
+    [customer] => 
+    [description] => Telehealth365 - Order 2882
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19AQGm2Dvr9PTHU3ME1jZMjb/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19AQGj2Dvr9PTHU3V4m7dllj
+            [object] => card
+            [address_city] => Morgan Hill
+            [address_country] => US
+            [address_line1] => 18510 Serra Ct
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 1
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Ashok Magadum
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+10-30-2016 @ 20:51:09 - Successful charge: ch_19AQGm2Dvr9PTHU3ME1jZMjb
+01-20-2017 @ 01:31:18 - Info: Begin processing payment for order 2896 for the amount of 600
+01-20-2017 @ 01:31:18 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 60000
+    [description] => Telehealth365 - Order 2896
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19drFI2Dvr9PTHU3j0S45Mkr
+)
+
+01-20-2017 @ 01:31:19 - Processing response: stdClass Object
+(
+    [id] => ch_19drFK2Dvr9PTHU3OvukpU67
+    [object] => charge
+    [amount] => 60000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19drFK2Dvr9PTHU3rvrQaWF6
+            [object] => balance_transaction
+            [amount] => 60000
+            [available_on] => 1485216000
+            [created] => 1484875878
+            [currency] => usd
+            [description] => Telehealth365 - Order 2896
+            [fee] => 1770
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 1770
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 58230
+            [source] => ch_19drFK2Dvr9PTHU3OvukpU67
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19drFK2Dvr9PTHU3OvukpU67
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1484875878
+    [currency] => usd
+    [customer] => 
+    [description] => Telehealth365 - Order 2896
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19drFK2Dvr9PTHU3OvukpU67/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19drFI2Dvr9PTHU3hm5jIn9n
+            [object] => card
+            [address_city] => San Jose
+            [address_country] => US
+            [address_line1] => 2000 E Santa Clare St
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95113
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 1
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Tejas Deshmukh
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+01-20-2017 @ 01:31:19 - Successful charge: ch_19drFK2Dvr9PTHU3OvukpU67
+01-24-2017 @ 06:38:54 - Info: Begin processing payment for order 2898 for the amount of 600
+01-24-2017 @ 06:38:54 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 60000
+    [description] => Telehealth365 - Order 2898
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19fNx92Dvr9PTHU3nN4u0pCR
+)
+
+01-24-2017 @ 06:38:54 - Processing response: stdClass Object
+(
+    [id] => ch_19fNxC2Dvr9PTHU3GKRCDYTU
+    [object] => charge
+    [amount] => 60000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19fNxC2Dvr9PTHU3caLPMMIE
+            [object] => balance_transaction
+            [amount] => 60000
+            [available_on] => 1485388800
+            [created] => 1485239934
+            [currency] => usd
+            [description] => Telehealth365 - Order 2898
+            [fee] => 1770
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 1770
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 58230
+            [source] => ch_19fNxC2Dvr9PTHU3GKRCDYTU
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19fNxC2Dvr9PTHU3GKRCDYTU
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1485239934
+    [currency] => usd
+    [customer] => 
+    [description] => Telehealth365 - Order 2898
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19fNxC2Dvr9PTHU3GKRCDYTU/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19fNx92Dvr9PTHU3aMVaTU9n
+            [object] => card
+            [address_city] => San Jose
+            [address_country] => US
+            [address_line1] => 200 E Santa Clara St
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95113
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Donald  Miller
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+01-24-2017 @ 06:38:55 - Successful charge: ch_19fNxC2Dvr9PTHU3GKRCDYTU
+02-14-2017 @ 08:20:03 - Info: Begin processing payment for order 2903 for the amount of 1000
+02-14-2017 @ 08:20:03 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 100000
+    [description] => Telehealth365 - Order 2903
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19n1Vu2Dvr9PTHU3h5MuS7bV
+)
+
+02-14-2017 @ 08:20:04 - Processing response: stdClass Object
+(
+    [id] => ch_19n1Xc2Dvr9PTHU3TzRMbibL
+    [object] => charge
+    [amount] => 100000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19n1Xc2Dvr9PTHU3Z1UsxXhs
+            [object] => balance_transaction
+            [amount] => 100000
+            [available_on] => 1487203200
+            [created] => 1487060404
+            [currency] => usd
+            [description] => Telehealth365 - Order 2903
+            [fee] => 2930
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 2930
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 97070
+            [source] => ch_19n1Xc2Dvr9PTHU3TzRMbibL
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19n1Xc2Dvr9PTHU3TzRMbibL
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1487060404
+    [currency] => usd
+    [customer] => 
+    [description] => Telehealth365 - Order 2903
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19n1Xc2Dvr9PTHU3TzRMbibL/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19n1Vu2Dvr9PTHU3UwVsxKfA
+            [object] => card
+            [address_city] => Morgan Hill
+            [address_country] => US
+            [address_line1] => 18510 Serra Ct
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Vijay Sharma
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+02-14-2017 @ 08:20:05 - Successful charge: ch_19n1Xc2Dvr9PTHU3TzRMbibL
+02-17-2017 @ 10:12:04 - Info: Begin processing payment for order 2909 for the amount of 2000
+02-17-2017 @ 10:12:04 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 200000
+    [description] => Telehealth365 - Order 2909
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19o8ia2Dvr9PTHU3XrRvaGji
+)
+
+02-17-2017 @ 10:12:06 - Processing response: stdClass Object
+(
+    [id] => ch_19o8if2Dvr9PTHU3PdHhMxJG
+    [object] => charge
+    [amount] => 200000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19o8ig2Dvr9PTHU3NwPN952d
+            [object] => balance_transaction
+            [amount] => 200000
+            [available_on] => 1487721600
+            [created] => 1487326325
+            [currency] => usd
+            [description] => Telehealth365 - Order 2909
+            [fee] => 5830
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 5830
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 194170
+            [source] => ch_19o8if2Dvr9PTHU3PdHhMxJG
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19o8if2Dvr9PTHU3PdHhMxJG
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1487326325
+    [currency] => usd
+    [customer] => 
+    [description] => Telehealth365 - Order 2909
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 1
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => elevated_risk_level
+            [risk_level] => elevated
+            [rule] => stdClass Object
+                (
+                    [id] => ssr_19o8if2Dvr9PTHU3KbBfCvof
+                    [action] => manual_review
+                    [predicate] => :risk_level: = 'elevated'
+                )
+
+            [seller_message] => Stripe evaluated this charge as having elevated risk, and placed it in your manual review queue.
+            [type] => manual_review
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19o8if2Dvr9PTHU3PdHhMxJG/refunds
+        )
+
+    [review] => prv_19o8ig2Dvr9PTHU3Q1lsasBP
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19o8iZ2Dvr9PTHU3qiClgNTA
+            [object] => card
+            [address_city] => austin
+            [address_country] => US
+            [address_line1] => 401 kissing oak drive
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => TX
+            [address_zip] => 78748
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 10
+            [exp_year] => 2019
+            [fingerprint] => ysAn8SMIab6rHcR1
+            [funding] => debit
+            [last4] => 1475
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Benjamin Udeze
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+02-17-2017 @ 10:12:07 - Successful charge: ch_19o8if2Dvr9PTHU3PdHhMxJG
+04-03-2017 @ 10:17:48 - Info: Begin processing payment for order 2954 for the amount of 60
+04-03-2017 @ 10:17:48 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 6000
+    [description] => Dev-Telehealth365 - Order 2954
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1A4SFp2Dvr9PTHU3UOQjUKUC
+)
+
+04-03-2017 @ 10:17:50 - Processing response: stdClass Object
+(
+    [id] => ch_1A4SFt2Dvr9PTHU3lBIgd4KN
+    [object] => charge
+    [amount] => 6000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1A4SFt2Dvr9PTHU3YmDWzJJw
+            [object] => balance_transaction
+            [amount] => 6000
+            [available_on] => 1491350400
+            [created] => 1491214669
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 2954
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5796
+            [source] => ch_1A4SFt2Dvr9PTHU3lBIgd4KN
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1A4SFt2Dvr9PTHU3lBIgd4KN
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1491214669
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 2954
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1A4SFt2Dvr9PTHU3lBIgd4KN/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1A4SFp2Dvr9PTHU37h0bVGmk
+            [object] => card
+            [address_city] => Punjab
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 11
+            [exp_year] => 2023
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Raahi Shammy
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-03-2017 @ 10:18:53 - Successful charge: ch_1A4SFt2Dvr9PTHU3lBIgd4KN
+04-03-2017 @ 11:19:39 - Info: Begin processing payment for order 2957 for the amount of 45
+04-03-2017 @ 11:19:39 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 2957
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1A4TBm2Dvr9PTHU3I4hclCJQ
+)
+
+04-03-2017 @ 11:19:40 - Processing response: stdClass Object
+(
+    [id] => ch_1A4TDk2Dvr9PTHU3NCxLEper
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1A4TDk2Dvr9PTHU3efrDuQCi
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1491350400
+            [created] => 1491218380
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 2957
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1A4TDk2Dvr9PTHU3NCxLEper
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1A4TDk2Dvr9PTHU3NCxLEper
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1491218380
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 2957
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1A4TDk2Dvr9PTHU3NCxLEper/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1A4TBm2Dvr9PTHU3mBzQpSym
+            [object] => card
+            [address_city] => Chand
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 11
+            [exp_year] => 2026
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Amit Raahi
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-03-2017 @ 11:20:44 - Successful charge: ch_1A4TDk2Dvr9PTHU3NCxLEper
+04-06-2017 @ 10:50:38 - Info: Begin processing payment for order 2963 for the amount of 72
+04-06-2017 @ 10:50:38 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 7200
+    [description] => Dev-Telehealth365 - Order 2963
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1A5YCF2Dvr9PTHU3h3mjQJqi
+)
+
+04-06-2017 @ 10:50:39 - Processing response: stdClass Object
+(
+    [id] => ch_1A5YCJ2Dvr9PTHU3PM8OGQfh
+    [object] => charge
+    [amount] => 7200
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1A5YCJ2Dvr9PTHU3TKX0aSS5
+            [object] => balance_transaction
+            [amount] => 7200
+            [available_on] => 1491782400
+            [created] => 1491475839
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 2963
+            [fee] => 239
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 239
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 6961
+            [source] => ch_1A5YCJ2Dvr9PTHU3PM8OGQfh
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1A5YCJ2Dvr9PTHU3PM8OGQfh
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1491475839
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 2963
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1A5YCJ2Dvr9PTHU3PM8OGQfh/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1A5YCF2Dvr9PTHU3Tktec3wu
+            [object] => card
+            [address_city] => Delhi
+            [address_country] => US
+            [address_line1] => Smoke
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 3
+            [exp_year] => 2025
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Amit Raahi
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-06-2017 @ 10:55:20 - Info: Begin processing payment for order 2965 for the amount of 135
+04-06-2017 @ 10:55:20 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 13500
+    [description] => Dev-Telehealth365 - Order 2965
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1A5YGn2Dvr9PTHU3kZDFcuQh
+)
+
+04-06-2017 @ 10:55:21 - Processing response: stdClass Object
+(
+    [id] => ch_1A5YGr2Dvr9PTHU31PtsSITI
+    [object] => charge
+    [amount] => 13500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1A5YGr2Dvr9PTHU3pE20HRq2
+            [object] => balance_transaction
+            [amount] => 13500
+            [available_on] => 1491782400
+            [created] => 1491476121
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 2965
+            [fee] => 422
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 422
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 13078
+            [source] => ch_1A5YGr2Dvr9PTHU31PtsSITI
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1A5YGr2Dvr9PTHU31PtsSITI
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1491476121
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 2965
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1A5YGr2Dvr9PTHU31PtsSITI/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1A5YGn2Dvr9PTHU32V7r2V4H
+            [object] => card
+            [address_city] => Chandigarh
+            [address_country] => US
+            [address_line1] => Maahi
+            [address_line1_check] => pass
+            [address_line2] => Shammy
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 6
+            [exp_year] => 2023
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Amit Kumar
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-06-2017 @ 10:55:22 - Successful charge: ch_1A5YGr2Dvr9PTHU31PtsSITI
+04-07-2017 @ 03:26:22 - Info: Begin processing payment for order 2967 for the amount of 80
+04-07-2017 @ 03:26:22 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 8000
+    [description] => Dev-Telehealth365 - Order 2967
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1A5ndW2Dvr9PTHU3MH31OCWn
+)
+
+04-07-2017 @ 03:26:23 - Processing response: stdClass Object
+(
+    [id] => ch_1A5njv2Dvr9PTHU3qyN4Hf0V
+    [object] => charge
+    [amount] => 8000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1A5njv2Dvr9PTHU3FqVxwkxG
+            [object] => balance_transaction
+            [amount] => 8000
+            [available_on] => 1491868800
+            [created] => 1491535583
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 2967
+            [fee] => 262
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 262
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 7738
+            [source] => ch_1A5njv2Dvr9PTHU3qyN4Hf0V
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1A5njv2Dvr9PTHU3qyN4Hf0V
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1491535583
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 2967
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1A5njv2Dvr9PTHU3qyN4Hf0V/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1A5ndW2Dvr9PTHU3vUj3eLjO
+            [object] => card
+            [address_city] => Morgan Hill
+            [address_country] => US
+            [address_line1] => 18510 Serra Ct
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => James Brown
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-07-2017 @ 03:26:24 - Successful charge: ch_1A5njv2Dvr9PTHU3qyN4Hf0V
+04-07-2017 @ 07:54:46 - Info: Begin processing payment for order 2969 for the amount of 60
+04-07-2017 @ 07:54:46 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 6000
+    [description] => Dev-Telehealth365 - Order 2969
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1A5rvb2Dvr9PTHU3mNgubszG
+)
+
+04-07-2017 @ 07:54:48 - Processing response: stdClass Object
+(
+    [id] => ch_1A5rvf2Dvr9PTHU3xHbosJJx
+    [object] => charge
+    [amount] => 6000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1A5rvg2Dvr9PTHU3xZWQJNqf
+            [object] => balance_transaction
+            [amount] => 6000
+            [available_on] => 1491868800
+            [created] => 1491551687
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 2969
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5796
+            [source] => ch_1A5rvf2Dvr9PTHU3xHbosJJx
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1A5rvf2Dvr9PTHU3xHbosJJx
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1491551687
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 2969
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1A5rvf2Dvr9PTHU3xHbosJJx/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1A5rvb2Dvr9PTHU3XRu1P9s3
+            [object] => card
+            [address_city] => Chandigarh
+            [address_country] => US
+            [address_line1] => Smoke
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95037
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 6
+            [exp_year] => 2023
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Shammy Amit
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-07-2017 @ 07:54:48 - Successful charge: ch_1A5rvf2Dvr9PTHU3xHbosJJx
+04-19-2017 @ 14:40:50 - Info: Begin processing payment for order 3023 for the amount of 80
+04-19-2017 @ 14:40:50 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 8000
+    [description] => Dev-Telehealth365 - Order 3023
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AAJya2Dvr9PTHU3ul2WliJy
+)
+
+04-19-2017 @ 14:40:51 - Processing response: stdClass Object
+(
+    [id] => ch_1AAJzD2Dvr9PTHU3ChYKq6qK
+    [object] => charge
+    [amount] => 8000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AAJzD2Dvr9PTHU3ud1XqNOy
+            [object] => balance_transaction
+            [amount] => 8000
+            [available_on] => 1492732800
+            [created] => 1492612851
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3023
+            [fee] => 262
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 262
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 7738
+            [source] => ch_1AAJzD2Dvr9PTHU3ChYKq6qK
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AAJzD2Dvr9PTHU3ChYKq6qK
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1492612851
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3023
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AAJzD2Dvr9PTHU3ChYKq6qK/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AAJya2Dvr9PTHU3plwGk1A2
+            [object] => card
+            [address_city] => San Jose
+            [address_country] => US
+            [address_line1] => 1st St
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 12345
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Roy Orbison
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-19-2017 @ 14:40:52 - Successful charge: ch_1AAJzD2Dvr9PTHU3ChYKq6qK
+04-26-2017 @ 06:44:13 - Info: Begin processing payment for order 3027 for the amount of 45
+04-26-2017 @ 06:44:13 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 3027
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ACjsk2Dvr9PTHU3WF4IPmcR
+)
+
+04-26-2017 @ 06:44:15 - Processing response: stdClass Object
+(
+    [id] => ch_1ACjsp2Dvr9PTHU30zROP6VS
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ACjsp2Dvr9PTHU380DROvH3
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1493337600
+            [created] => 1493189055
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3027
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1ACjsp2Dvr9PTHU30zROP6VS
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ACjsp2Dvr9PTHU30zROP6VS
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493189055
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3027
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ACjsp2Dvr9PTHU30zROP6VS/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ACjsk2Dvr9PTHU3IapGRk9r
+            [object] => card
+            [address_city] => Punjab
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 11
+            [exp_year] => 2022
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Raahi Shammy
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-26-2017 @ 06:47:24 - Info: Begin processing payment for order 3029 for the amount of 20
+04-26-2017 @ 06:47:24 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 2000
+    [description] => Dev-Telehealth365 - Order 3029
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ACjvo2Dvr9PTHU3yack3B1L
+)
+
+04-26-2017 @ 06:47:25 - Processing response: stdClass Object
+(
+    [id] => ch_1ACjvs2Dvr9PTHU3CXFqVeSn
+    [object] => charge
+    [amount] => 2000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ACjvt2Dvr9PTHU3MAhY3dwj
+            [object] => balance_transaction
+            [amount] => 2000
+            [available_on] => 1493337600
+            [created] => 1493189244
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3029
+            [fee] => 88
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 88
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 1912
+            [source] => ch_1ACjvs2Dvr9PTHU3CXFqVeSn
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ACjvs2Dvr9PTHU3CXFqVeSn
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493189244
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3029
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ACjvs2Dvr9PTHU3CXFqVeSn/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ACjvo2Dvr9PTHU3ZpYF15z0
+            [object] => card
+            [address_city] => Punjab
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 11
+            [exp_year] => 2022
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Raahi Shammy
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-26-2017 @ 06:58:06 - Info: Begin processing payment for order 3031 for the amount of 20
+04-26-2017 @ 06:58:06 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 2000
+    [description] => Dev-Telehealth365 - Order 3031
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ACk6B2Dvr9PTHU3Kc7NYPL6
+)
+
+04-26-2017 @ 06:58:08 - Processing response: stdClass Object
+(
+    [id] => ch_1ACk6F2Dvr9PTHU3tepBmJAa
+    [object] => charge
+    [amount] => 2000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ACk6F2Dvr9PTHU3WetNxgre
+            [object] => balance_transaction
+            [amount] => 2000
+            [available_on] => 1493337600
+            [created] => 1493189887
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3031
+            [fee] => 88
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 88
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 1912
+            [source] => ch_1ACk6F2Dvr9PTHU3tepBmJAa
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ACk6F2Dvr9PTHU3tepBmJAa
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493189887
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3031
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ACk6F2Dvr9PTHU3tepBmJAa/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ACk6B2Dvr9PTHU3hQo59UCx
+            [object] => card
+            [address_city] => Punjab
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 11
+            [exp_year] => 2022
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Raahi Shammy
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-26-2017 @ 07:01:01 - Info: Begin processing payment for order 3033 for the amount of 20
+04-26-2017 @ 07:01:01 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 2000
+    [description] => Dev-Telehealth365 - Order 3033
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ACk8k2Dvr9PTHU3JWaCY5YU
+)
+
+04-26-2017 @ 07:01:02 - Processing response: stdClass Object
+(
+    [id] => ch_1ACk942Dvr9PTHU3PefO5R7Z
+    [object] => charge
+    [amount] => 2000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ACk942Dvr9PTHU3nriyjZV4
+            [object] => balance_transaction
+            [amount] => 2000
+            [available_on] => 1493337600
+            [created] => 1493190062
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3033
+            [fee] => 88
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 88
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 1912
+            [source] => ch_1ACk942Dvr9PTHU3PefO5R7Z
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ACk942Dvr9PTHU3PefO5R7Z
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493190062
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3033
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ACk942Dvr9PTHU3PefO5R7Z/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ACk8k2Dvr9PTHU3Jm242NMW
+            [object] => card
+            [address_city] => Punjab
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 2
+            [exp_year] => 2022
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Raahi Shammy
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-26-2017 @ 07:01:03 - Successful charge: ch_1ACk942Dvr9PTHU3PefO5R7Z
+04-26-2017 @ 07:08:37 - Info: Begin processing payment for order 3035 for the amount of 45
+04-26-2017 @ 07:08:37 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 3035
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ACkFx2Dvr9PTHU3gBgLKIAG
+)
+
+04-26-2017 @ 07:08:38 - Processing response: stdClass Object
+(
+    [id] => ch_1ACkGQ2Dvr9PTHU3El4GJNiL
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ACkGQ2Dvr9PTHU3y4fT0m2W
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1493337600
+            [created] => 1493190518
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3035
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1ACkGQ2Dvr9PTHU3El4GJNiL
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ACkGQ2Dvr9PTHU3El4GJNiL
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493190518
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3035
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ACkGQ2Dvr9PTHU3El4GJNiL/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ACkFx2Dvr9PTHU3UrG4V12s
+            [object] => card
+            [address_city] => Chandigarh
+            [address_country] => US
+            [address_line1] => Chadnigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 11
+            [exp_year] => 2022
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Amit Kumar
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-26-2017 @ 07:17:14 - Info: Begin processing payment for order 3037 for the amount of 45
+04-26-2017 @ 07:17:14 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 3037
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ACkOf2Dvr9PTHU3HQgvX01F
+)
+
+04-26-2017 @ 07:17:15 - Processing response: stdClass Object
+(
+    [id] => ch_1ACkOl2Dvr9PTHU3lvJBtBOs
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ACkOl2Dvr9PTHU3Y2Pyn8Ct
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1493337600
+            [created] => 1493191035
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3037
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1ACkOl2Dvr9PTHU3lvJBtBOs
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ACkOl2Dvr9PTHU3lvJBtBOs
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493191035
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3037
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ACkOl2Dvr9PTHU3lvJBtBOs/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ACkOf2Dvr9PTHU3OuFCTulq
+            [object] => card
+            [address_city] => Punjab
+            [address_country] => US
+            [address_line1] => Chandigarh
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 2
+            [exp_year] => 2022
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Amit Shammy
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-26-2017 @ 07:17:16 - Successful charge: ch_1ACkOl2Dvr9PTHU3lvJBtBOs
+04-27-2017 @ 05:05:37 - Info: Begin processing payment for order 3039 for the amount of 45
+04-27-2017 @ 05:05:37 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 3039
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AD4nr2Dvr9PTHU3su7HCxMO
+)
+
+04-27-2017 @ 05:05:39 - Processing response: stdClass Object
+(
+    [id] => ch_1AD4ow2Dvr9PTHU3U3BOq3z9
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AD4ox2Dvr9PTHU3LNTmu1gT
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1493596800
+            [created] => 1493269538
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3039
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1AD4ow2Dvr9PTHU3U3BOq3z9
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AD4ow2Dvr9PTHU3U3BOq3z9
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493269538
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3039
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AD4ow2Dvr9PTHU3U3BOq3z9/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AD4nr2Dvr9PTHU3v8SmsFCY
+            [object] => card
+            [address_city] => Streamwood
+            [address_country] => US
+            [address_line1] => 1555 Yellowstone Drive
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => IL
+            [address_zip] => 60107
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 10
+            [exp_year] => 2018
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Ashok Magadum
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-27-2017 @ 05:05:40 - Successful charge: ch_1AD4ow2Dvr9PTHU3U3BOq3z9
+04-28-2017 @ 07:02:59 - Info: Begin processing payment for order 3041 for the amount of 80
+04-28-2017 @ 07:02:59 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 8000
+    [description] => Dev-Telehealth365 - Order 3041
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ADSyD2Dvr9PTHU3Nt1UVuQR
+)
+
+04-28-2017 @ 07:03:00 - Processing response: stdClass Object
+(
+    [id] => ch_1ADT842Dvr9PTHU3oaY8S2Fr
+    [object] => charge
+    [amount] => 8000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ADT842Dvr9PTHU3e3udsaNc
+            [object] => balance_transaction
+            [amount] => 8000
+            [available_on] => 1493683200
+            [created] => 1493362980
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3041
+            [fee] => 262
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 262
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 7738
+            [source] => ch_1ADT842Dvr9PTHU3oaY8S2Fr
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ADT842Dvr9PTHU3oaY8S2Fr
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493362980
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3041
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ADT842Dvr9PTHU3oaY8S2Fr/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ADSyD2Dvr9PTHU3s6jPVrWV
+            [object] => card
+            [address_city] => Belgaum
+            [address_country] => US
+            [address_line1] => Mahantesh Nagar
+            [address_line1_check] => pass
+            [address_line2] => No 117
+            [address_state] => CA
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => 
+            [dynamic_last4] => 
+            [exp_month] => 1
+            [exp_year] => 2018
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Aparna Patil
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-28-2017 @ 07:03:01 - Successful charge: ch_1ADT842Dvr9PTHU3oaY8S2Fr
+04-29-2017 @ 07:22:29 - Info: Begin processing payment for order 3043 for the amount of 200
+04-29-2017 @ 07:22:29 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 20000
+    [description] => Dev-Telehealth365 - Order 3043
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1ADpVJ2Dvr9PTHU3kCYNnZq4
+)
+
+04-29-2017 @ 07:22:30 - Processing response: stdClass Object
+(
+    [id] => ch_1ADpuU2Dvr9PTHU34GaIFMcN
+    [object] => charge
+    [amount] => 20000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1ADpuU2Dvr9PTHU3YVrUY78R
+            [object] => balance_transaction
+            [amount] => 20000
+            [available_on] => 1493769600
+            [created] => 1493450550
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3043
+            [fee] => 610
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 610
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 19390
+            [source] => ch_1ADpuU2Dvr9PTHU34GaIFMcN
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1ADpuU2Dvr9PTHU34GaIFMcN
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493450550
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3043
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1ADpuU2Dvr9PTHU34GaIFMcN/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1ADpVJ2Dvr9PTHU3bbwbHhLy
+            [object] => card
+            [address_city] => BELAGAVI
+            [address_country] => US
+            [address_line1] => Mahantesh nagar
+            [address_line1_check] => pass
+            [address_line2] => aditi apt,8,mahantesh nagar
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => 
+            [dynamic_last4] => 
+            [exp_month] => 2
+            [exp_year] => 2018
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Aparna Patil
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+04-29-2017 @ 07:22:31 - Successful charge: ch_1ADpuU2Dvr9PTHU34GaIFMcN
+05-04-2017 @ 10:43:13 - Info: Begin processing payment for order 3045 for the amount of 600
+05-04-2017 @ 10:43:13 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 60000
+    [description] => Dev-Telehealth365 - Order 3045
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AFhKd2Dvr9PTHU36H8ICNbv
+)
+
+05-04-2017 @ 10:43:14 - Processing response: stdClass Object
+(
+    [id] => ch_1AFhQU2Dvr9PTHU3EFIEh3vy
+    [object] => charge
+    [amount] => 60000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AFhQU2Dvr9PTHU3fk5EL633
+            [object] => balance_transaction
+            [amount] => 60000
+            [available_on] => 1494201600
+            [created] => 1493894594
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3045
+            [fee] => 1770
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 1770
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 58230
+            [source] => ch_1AFhQU2Dvr9PTHU3EFIEh3vy
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AFhQU2Dvr9PTHU3EFIEh3vy
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1493894594
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3045
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AFhQU2Dvr9PTHU3EFIEh3vy/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AFhKd2Dvr9PTHU3yXnMqfKU
+            [object] => card
+            [address_city] => California
+            [address_country] => US
+            [address_line1] => Mahantesh Nagar, Lig 117
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 93501
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 9
+            [exp_year] => 2021
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Supriya Bagoji
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-04-2017 @ 10:43:16 - Successful charge: ch_1AFhQU2Dvr9PTHU3EFIEh3vy
+05-09-2017 @ 06:48:53 - Info: Begin processing payment for order 3047 for the amount of 10
+05-09-2017 @ 06:48:53 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 1000
+    [description] => Dev-Telehealth365 - Order 3047
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AHS3B2Dvr9PTHU3KqqjbZ7z
+)
+
+05-09-2017 @ 06:48:54 - Processing response: stdClass Object
+(
+    [id] => ch_1AHS9S2Dvr9PTHU30h1e5DtD
+    [object] => charge
+    [amount] => 1000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AHS9S2Dvr9PTHU3ktgwv7dP
+            [object] => balance_transaction
+            [amount] => 1000
+            [available_on] => 1494460800
+            [created] => 1494312534
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3047
+            [fee] => 59
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 59
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 941
+            [source] => ch_1AHS9S2Dvr9PTHU30h1e5DtD
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AHS9S2Dvr9PTHU30h1e5DtD
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494312534
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3047
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AHS9S2Dvr9PTHU30h1e5DtD/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AHS3B2Dvr9PTHU37OwdfRIk
+            [object] => card
+            [address_city] => BELGAUM
+            [address_country] => US
+            [address_line1] => Belgaum
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 12
+            [exp_year] => 2021
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Devi Patil
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-09-2017 @ 06:48:56 - Successful charge: ch_1AHS9S2Dvr9PTHU30h1e5DtD
+05-09-2017 @ 09:09:39 - Info: Begin processing payment for order 3049 for the amount of 600
+05-09-2017 @ 09:09:39 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 60000
+    [description] => Dev-Telehealth365 - Order 3049
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AHULL2Dvr9PTHU3XLfoRGvJ
+)
+
+05-09-2017 @ 09:09:40 - Processing response: stdClass Object
+(
+    [id] => ch_1AHULg2Dvr9PTHU39Z7yZvZO
+    [object] => charge
+    [amount] => 60000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AHULg2Dvr9PTHU3dGRfnWGJ
+            [object] => balance_transaction
+            [amount] => 60000
+            [available_on] => 1494460800
+            [created] => 1494320980
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3049
+            [fee] => 1770
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 1770
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 58230
+            [source] => ch_1AHULg2Dvr9PTHU39Z7yZvZO
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AHULg2Dvr9PTHU39Z7yZvZO
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494320980
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3049
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AHULg2Dvr9PTHU39Z7yZvZO/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AHULL2Dvr9PTHU34rXixrjp
+            [object] => card
+            [address_city] => BELGAUM
+            [address_country] => US
+            [address_line1] => Belgaum
+            [address_line1_check] => pass
+            [address_line2] => mahantesh nagar
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2021
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Tina Malhotra
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-09-2017 @ 09:09:42 - Successful charge: ch_1AHULg2Dvr9PTHU39Z7yZvZO
+05-09-2017 @ 10:28:55 - Info: Begin processing payment for order 3051 for the amount of 10
+05-09-2017 @ 10:28:55 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 1000
+    [description] => Dev-Telehealth365 - Order 3051
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AHVYF2Dvr9PTHU3QI22phdq
+)
+
+05-09-2017 @ 10:28:57 - Processing response: stdClass Object
+(
+    [id] => ch_1AHVaO2Dvr9PTHU3RebunELV
+    [object] => charge
+    [amount] => 1000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AHVaO2Dvr9PTHU31wRtYPyr
+            [object] => balance_transaction
+            [amount] => 1000
+            [available_on] => 1494460800
+            [created] => 1494325736
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3051
+            [fee] => 59
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 59
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 941
+            [source] => ch_1AHVaO2Dvr9PTHU3RebunELV
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AHVaO2Dvr9PTHU3RebunELV
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494325736
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3051
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AHVaO2Dvr9PTHU3RebunELV/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AHVYF2Dvr9PTHU3fIzHknq1
+            [object] => card
+            [address_city] => Mumbai
+            [address_country] => US
+            [address_line1] => Adarsha Nagar
+            [address_line1_check] => pass
+            [address_line2] => Mannat
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 5
+            [exp_year] => 2029
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Jaya Bachan
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-09-2017 @ 10:28:59 - Successful charge: ch_1AHVaO2Dvr9PTHU3RebunELV
+05-10-2017 @ 05:53:37 - Info: Begin processing payment for order 3053 for the amount of 10
+05-10-2017 @ 05:53:37 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 1000
+    [description] => Dev-Telehealth365 - Order 3053
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AHnfQ2Dvr9PTHU38EDDrZGI
+)
+
+05-10-2017 @ 05:53:38 - Processing response: stdClass Object
+(
+    [id] => ch_1AHnlW2Dvr9PTHU3jPRrqoRf
+    [object] => charge
+    [amount] => 1000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AHnlW2Dvr9PTHU3XkqKIUgU
+            [object] => balance_transaction
+            [amount] => 1000
+            [available_on] => 1494547200
+            [created] => 1494395618
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3053
+            [fee] => 59
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 59
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 941
+            [source] => ch_1AHnlW2Dvr9PTHU3jPRrqoRf
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AHnlW2Dvr9PTHU3jPRrqoRf
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494395618
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3053
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AHnlW2Dvr9PTHU3jPRrqoRf/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AHnfP2Dvr9PTHU3vP9HFHyc
+            [object] => card
+            [address_city] => Mumbai
+            [address_country] => US
+            [address_line1] => VadaPav Road
+            [address_line1_check] => pass
+            [address_line2] => House No 9211
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 5
+            [exp_year] => 2062
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Shridevi Patil
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-10-2017 @ 05:53:39 - Successful charge: ch_1AHnlW2Dvr9PTHU3jPRrqoRf
+05-10-2017 @ 07:14:07 - Info: Begin processing payment for order 3055 for the amount of 80
+05-10-2017 @ 07:14:07 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 8000
+    [description] => Dev-Telehealth365 - Order 3055
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AHofp2Dvr9PTHU3tjk9bFZP
+)
+
+05-10-2017 @ 07:14:08 - Processing response: stdClass Object
+(
+    [id] => ch_1AHp1Q2Dvr9PTHU3XfbD85TL
+    [object] => charge
+    [amount] => 8000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AHp1Q2Dvr9PTHU3DocaJj5G
+            [object] => balance_transaction
+            [amount] => 8000
+            [available_on] => 1494547200
+            [created] => 1494400448
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3055
+            [fee] => 262
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 262
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 7738
+            [source] => ch_1AHp1Q2Dvr9PTHU3XfbD85TL
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AHp1Q2Dvr9PTHU3XfbD85TL
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494400448
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3055
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AHp1Q2Dvr9PTHU3XfbD85TL/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AHofp2Dvr9PTHU31bBkTuGG
+            [object] => card
+            [address_city] => mubai
+            [address_country] => US
+            [address_line1] => ring road
+            [address_line1_check] => pass
+            [address_line2] => house no 3672
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => 
+            [dynamic_last4] => 
+            [exp_month] => 12
+            [exp_year] => 2024
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => john abhraham
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-10-2017 @ 07:14:10 - Successful charge: ch_1AHp1Q2Dvr9PTHU3XfbD85TL
+05-10-2017 @ 08:36:24 - Info: Begin processing payment for order 3057 for the amount of 80
+05-10-2017 @ 08:36:24 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 8000
+    [description] => Dev-Telehealth365 - Order 3057
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AHp6d2Dvr9PTHU3Qow2OjSx
+)
+
+05-10-2017 @ 08:36:25 - Processing response: stdClass Object
+(
+    [id] => ch_1AHqJ32Dvr9PTHU3stBztiXc
+    [object] => charge
+    [amount] => 8000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AHqJ32Dvr9PTHU3dGkEIuOo
+            [object] => balance_transaction
+            [amount] => 8000
+            [available_on] => 1494547200
+            [created] => 1494405385
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3057
+            [fee] => 262
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 262
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 7738
+            [source] => ch_1AHqJ32Dvr9PTHU3stBztiXc
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AHqJ32Dvr9PTHU3stBztiXc
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494405385
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3057
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AHqJ32Dvr9PTHU3stBztiXc/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AHp6d2Dvr9PTHU3NHUmneAo
+            [object] => card
+            [address_city] => Mysore
+            [address_country] => US
+            [address_line1] => Havai Circle
+            [address_line1_check] => pass
+            [address_line2] => lig 887
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => 
+            [dynamic_last4] => 
+            [exp_month] => 5
+            [exp_year] => 2019
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Maduri Dixit
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-10-2017 @ 08:36:27 - Successful charge: ch_1AHqJ32Dvr9PTHU3stBztiXc
+05-11-2017 @ 03:35:09 - Info: Begin processing payment for order 3059 for the amount of 45
+05-11-2017 @ 03:35:09 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 3059
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AI83U2Dvr9PTHU3AirAvXd6
+)
+
+05-11-2017 @ 03:35:11 - Processing response: stdClass Object
+(
+    [id] => ch_1AI8552Dvr9PTHU3YCU6SwNN
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AI8552Dvr9PTHU3qOjEatle
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1494806400
+            [created] => 1494473711
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3059
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1AI8552Dvr9PTHU3YCU6SwNN
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AI8552Dvr9PTHU3YCU6SwNN
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494473711
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3059
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AI8552Dvr9PTHU3YCU6SwNN/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AI83U2Dvr9PTHU3lO7HF78L
+            [object] => card
+            [address_city] => Mumbai
+            [address_country] => US
+            [address_line1] => Ring Road
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 6
+            [exp_year] => 2023
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Mirth_Team Mirth_Team
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-11-2017 @ 03:35:12 - Successful charge: ch_1AI8552Dvr9PTHU3YCU6SwNN
+05-11-2017 @ 06:17:53 - Info: Begin processing payment for order 3061 for the amount of 60
+05-11-2017 @ 06:17:53 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 6000
+    [description] => Dev-Telehealth365 - Order 3061
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AIAUN2Dvr9PTHU3YQwZX4tc
+)
+
+05-11-2017 @ 06:17:54 - Processing response: stdClass Object
+(
+    [id] => ch_1AIAcY2Dvr9PTHU30k59BNEu
+    [object] => charge
+    [amount] => 6000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AIAcY2Dvr9PTHU3xRxLlmpC
+            [object] => balance_transaction
+            [amount] => 6000
+            [available_on] => 1494806400
+            [created] => 1494483474
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3061
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5796
+            [source] => ch_1AIAcY2Dvr9PTHU30k59BNEu
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AIAcY2Dvr9PTHU30k59BNEu
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494483474
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3061
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AIAcY2Dvr9PTHU30k59BNEu/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AIAUN2Dvr9PTHU36PUWzYMZ
+            [object] => card
+            [address_city] => pune
+            [address_country] => US
+            [address_line1] => ashok nagar
+            [address_line1_check] => pass
+            [address_line2] => lig 119
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 7
+            [exp_year] => 2031
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => babu gouda
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-11-2017 @ 06:17:55 - Successful charge: ch_1AIAcY2Dvr9PTHU30k59BNEu
+05-11-2017 @ 06:44:59 - Info: Begin processing payment for order 3063 for the amount of 60
+05-11-2017 @ 06:44:59 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 6000
+    [description] => Dev-Telehealth365 - Order 3063
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AIB2h2Dvr9PTHU3AUQQQb5n
+)
+
+05-11-2017 @ 06:45:00 - Processing response: stdClass Object
+(
+    [id] => ch_1AIB2m2Dvr9PTHU3PoemG7dQ
+    [object] => charge
+    [amount] => 6000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AIB2m2Dvr9PTHU344OZdFpB
+            [object] => balance_transaction
+            [amount] => 6000
+            [available_on] => 1494806400
+            [created] => 1494485100
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3063
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5796
+            [source] => ch_1AIB2m2Dvr9PTHU3PoemG7dQ
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AIB2m2Dvr9PTHU3PoemG7dQ
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494485100
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3063
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AIB2m2Dvr9PTHU3PoemG7dQ/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AIB2h2Dvr9PTHU35AIN0cDQ
+            [object] => card
+            [address_city] => Shirguppi
+            [address_country] => US
+            [address_line1] => PizzaHut
+            [address_line1_check] => pass
+            [address_line2] => mahantesh nagar
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 5
+            [exp_year] => 2020
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Amitabh Bachan
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-11-2017 @ 06:45:01 - Successful charge: ch_1AIB2m2Dvr9PTHU3PoemG7dQ
+05-15-2017 @ 04:25:59 - Info: Begin processing payment for order 3065 for the amount of 80
+05-15-2017 @ 04:25:59 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 8000
+    [description] => Dev-Telehealth365 - Order 3065
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AJamO2Dvr9PTHU38JRMt4Jr
+)
+
+05-15-2017 @ 04:26:00 - Processing response: stdClass Object
+(
+    [id] => ch_1AJamR2Dvr9PTHU3zwGb2bcH
+    [object] => charge
+    [amount] => 8000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AJamS2Dvr9PTHU3VqqhUK2L
+            [object] => balance_transaction
+            [amount] => 8000
+            [available_on] => 1494979200
+            [created] => 1494822359
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3065
+            [fee] => 262
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 262
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 7738
+            [source] => ch_1AJamR2Dvr9PTHU3zwGb2bcH
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AJamR2Dvr9PTHU3zwGb2bcH
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1494822359
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3065
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AJamR2Dvr9PTHU3zwGb2bcH/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AJamO2Dvr9PTHU376n3tDdK
+            [object] => card
+            [address_city] => San Jose
+            [address_country] => US
+            [address_line1] => 3200 Zanker Road
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95134
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 10
+            [exp_year] => 2018
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Tate Denis
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+05-15-2017 @ 04:26:01 - Successful charge: ch_1AJamR2Dvr9PTHU3zwGb2bcH
+06-03-2017 @ 09:18:43 - Info: Begin processing payment for order 3067 for the amount of 60
+06-03-2017 @ 09:18:43 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 6000
+    [description] => Dev-Telehealth365 - Order 3067
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AQYOC2Dvr9PTHU3bonlRy3Y
+)
+
+06-03-2017 @ 09:18:45 - Processing response: stdClass Object
+(
+    [id] => ch_1AQYPA2Dvr9PTHU3SmQnzGZK
+    [object] => charge
+    [amount] => 6000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AQYPA2Dvr9PTHU3Xtx1EzYd
+            [object] => balance_transaction
+            [amount] => 6000
+            [available_on] => 1496793600
+            [created] => 1496481524
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3067
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5796
+            [source] => ch_1AQYPA2Dvr9PTHU3SmQnzGZK
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AQYPA2Dvr9PTHU3SmQnzGZK
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1496481524
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3067
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AQYPA2Dvr9PTHU3SmQnzGZK/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AQYOB2Dvr9PTHU3ix60GXRq
+            [object] => card
+            [address_city] => BELGAUM
+            [address_country] => US
+            [address_line1] => Mahantesh Nagar
+            [address_line1_check] => pass
+            [address_line2] => LIG 117
+            [address_state] => CA
+            [address_zip] => 90001
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 5
+            [exp_year] => 2026
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Prashant P
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+06-03-2017 @ 09:18:45 - Successful charge: ch_1AQYPA2Dvr9PTHU3SmQnzGZK
+06-19-2017 @ 14:32:27 - Info: Begin processing payment for order 3070 for the amount of 45
+06-19-2017 @ 14:32:27 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 4500
+    [description] => Dev-Telehealth365 - Order 3070
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_1AWQse2Dvr9PTHU3CuqaX3tS
+)
+
+06-19-2017 @ 14:32:28 - Processing response: stdClass Object
+(
+    [id] => ch_1AWQvY2Dvr9PTHU33Vo8GSSi
+    [object] => charge
+    [amount] => 4500
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1AWQvY2Dvr9PTHU3vTRLD21Y
+            [object] => balance_transaction
+            [amount] => 4500
+            [available_on] => 1498003200
+            [created] => 1497882748
+            [currency] => usd
+            [description] => Dev-Telehealth365 - Order 3070
+            [fee] => 161
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 161
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 4339
+            [source] => ch_1AWQvY2Dvr9PTHU33Vo8GSSi
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1AWQvY2Dvr9PTHU33Vo8GSSi
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1497882748
+    [currency] => usd
+    [customer] => 
+    [description] => Dev-Telehealth365 - Order 3070
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1AWQvY2Dvr9PTHU33Vo8GSSi/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1AWQse2Dvr9PTHU3qo9HVeQC
+            [object] => card
+            [address_city] => San Jose
+            [address_country] => US
+            [address_line1] => 3200 Zanker Road
+            [address_line1_check] => pass
+            [address_line2] => 
+            [address_state] => CA
+            [address_zip] => 95134
+            [address_zip_check] => pass
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 12
+            [exp_year] => 2018
+            [fingerprint] => G3OFCmz3JE2wyfkZ
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => Tate Denis
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+06-19-2017 @ 14:32:29 - Successful charge: ch_1AWQvY2Dvr9PTHU33Vo8GSSi

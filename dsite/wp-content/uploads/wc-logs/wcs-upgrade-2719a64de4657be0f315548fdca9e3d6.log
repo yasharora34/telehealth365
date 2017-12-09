@@ -1,0 +1,1050 @@
+11-21-2017 @ 12:52:34 - Deleted 852 rows of "wcs_blocker_"
+11-21-2017 @ 12:52:35 - Deleted 0 rows of "wcs_blocker_"
+11-21-2017 @ 12:52:35 - Loaded database upgrade helper
+11-21-2017 @ 12:52:40 - Starting upgrade step: subscriptions
+11-21-2017 @ 12:52:40 - Upgrading batch of 50 subscriptions
+11-21-2017 @ 12:52:40 - For order 2160: beginning subscription upgrade process
+11-21-2017 @ 12:52:40 - !!! For order 2160: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:40 - For order 2187: beginning subscription upgrade process
+11-21-2017 @ 12:52:40 - !!! For order 2187: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:40 - For order 2206: beginning subscription upgrade process
+11-21-2017 @ 12:52:40 - !!! For order 2206: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:40 - For order 2209: beginning subscription upgrade process
+11-21-2017 @ 12:52:40 - For subscription 3297: post created
+11-21-2017 @ 12:52:40 - For subscription 3297: new line item ID 1313 added
+11-21-2017 @ 12:52:40 - For subscription 3297: for item 1313 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:40 - For subscription 3297: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:40 - For subscription 3297: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:40 - For subscription 3297: updated dates = trial_end:0,end:0,date_created:2015-04-02 16:51:50
+11-21-2017 @ 12:52:41 - For subscription 3297: 24 rows of post meta added
+11-21-2017 @ 12:52:41 - For subscription 3297: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3297: migrated 4 order notes
+11-21-2017 @ 12:52:41 - For subscription 3297: migrated 0 tax item/s
+11-21-2017 @ 12:52:41 - For subscription 3297: migrated 0 shipping item/s
+11-21-2017 @ 12:52:41 - For subscription 3297: migrated 0 coupon item/s
+11-21-2017 @ 12:52:41 - For subscription 3297: migrated data for renewal orders 
+11-21-2017 @ 12:52:41 - For subscription 3297: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:41 - For subscription 3297: upgrade complete
+11-21-2017 @ 12:52:41 - For order 2212: beginning subscription upgrade process
+11-21-2017 @ 12:52:41 - For subscription 3298: post created
+11-21-2017 @ 12:52:41 - For subscription 3298: new line item ID 1314 added
+11-21-2017 @ 12:52:41 - For subscription 3298: for item 1314 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:41 - For subscription 3298: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3298: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:41 - For subscription 3298: updated dates = trial_end:0,end:0,date_created:2015-04-02 22:57:08
+11-21-2017 @ 12:52:41 - For subscription 3298: 26 rows of post meta added
+11-21-2017 @ 12:52:41 - For subscription 3298: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3298: migrated 11 order notes
+11-21-2017 @ 12:52:41 - For subscription 3298: migrated 0 tax item/s
+11-21-2017 @ 12:52:41 - For subscription 3298: migrated 0 shipping item/s
+11-21-2017 @ 12:52:41 - For subscription 3298: migrated 0 coupon item/s
+11-21-2017 @ 12:52:41 - For subscription 3298: migrated data for renewal orders 2243
+11-21-2017 @ 12:52:41 - For subscription 3298: 1 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:41 - For subscription 3298: upgrade complete
+11-21-2017 @ 12:52:41 - For order 2245: beginning subscription upgrade process
+11-21-2017 @ 12:52:41 - For subscription 3299: post created
+11-21-2017 @ 12:52:41 - For subscription 3299: new line item ID 1315 added
+11-21-2017 @ 12:52:41 - For subscription 3299: for item 1315 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:41 - For subscription 3299: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3299: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:41 - For subscription 3299: updated dates = trial_end:0,end:0,date_created:2015-05-07 10:53:28
+11-21-2017 @ 12:52:41 - For subscription 3299: 26 rows of post meta added
+11-21-2017 @ 12:52:41 - For subscription 3299: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3299: migrated 7 order notes
+11-21-2017 @ 12:52:41 - For subscription 3299: migrated 0 tax item/s
+11-21-2017 @ 12:52:41 - For subscription 3299: migrated 0 shipping item/s
+11-21-2017 @ 12:52:41 - For subscription 3299: migrated 0 coupon item/s
+11-21-2017 @ 12:52:41 - For subscription 3299: migrated data for renewal orders 2271
+11-21-2017 @ 12:52:41 - For subscription 3299: 1 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:41 - For subscription 3299: upgrade complete
+11-21-2017 @ 12:52:41 - For order 2277: beginning subscription upgrade process
+11-21-2017 @ 12:52:41 - For subscription 3300: post created
+11-21-2017 @ 12:52:41 - For subscription 3300: new line item ID 1316 added
+11-21-2017 @ 12:52:41 - For subscription 3300: for item 1316 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:41 - For subscription 3300: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3300: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:41 - For subscription 3300: updated dates = trial_end:0,end:0,next_payment:2020-07-15 03:03:17,date_created:2015-06-15 05:08:32
+11-21-2017 @ 12:52:41 - For subscription 3300: 27 rows of post meta added
+11-21-2017 @ 12:52:41 - For subscription 3300: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3300: migrated 4 order notes
+11-21-2017 @ 12:52:41 - For subscription 3300: migrated 0 tax item/s
+11-21-2017 @ 12:52:41 - For subscription 3300: migrated 0 shipping item/s
+11-21-2017 @ 12:52:41 - For subscription 3300: migrated 0 coupon item/s
+11-21-2017 @ 12:52:41 - For subscription 3300: migrated data for renewal orders 
+11-21-2017 @ 12:52:41 - For subscription 3300: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:41 - For subscription 3300: upgrade complete
+11-21-2017 @ 12:52:41 - For order 2282: beginning subscription upgrade process
+11-21-2017 @ 12:52:41 - !!! For order 2282: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:41 - For order 2284: beginning subscription upgrade process
+11-21-2017 @ 12:52:41 - For subscription 3302: post created
+11-21-2017 @ 12:52:41 - For subscription 3302: new line item ID 1317 added
+11-21-2017 @ 12:52:41 - For subscription 3302: for item 1317 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:41 - For subscription 3302: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3302: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:41 - For subscription 3302: updated dates = trial_end:0,end:0,date_created:2015-07-21 15:18:03
+11-21-2017 @ 12:52:41 - For subscription 3302: 26 rows of post meta added
+11-21-2017 @ 12:52:41 - For subscription 3302: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3302: migrated 32 order notes
+11-21-2017 @ 12:52:41 - For subscription 3302: migrated 0 tax item/s
+11-21-2017 @ 12:52:41 - For subscription 3302: migrated 0 shipping item/s
+11-21-2017 @ 12:52:41 - For subscription 3302: migrated 0 coupon item/s
+11-21-2017 @ 12:52:41 - For subscription 3302: migrated data for renewal orders 2466, 2450, 2428, 2346, 2294
+11-21-2017 @ 12:52:41 - For subscription 3302: 5 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:41 - For subscription 3302: upgrade complete
+11-21-2017 @ 12:52:41 - For order 2286: beginning subscription upgrade process
+11-21-2017 @ 12:52:41 - For subscription 3303: post created
+11-21-2017 @ 12:52:41 - For subscription 3303: new line item ID 1318 added
+11-21-2017 @ 12:52:41 - For subscription 3303: for item 1318 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:41 - For subscription 3303: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3303: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:41 - For subscription 3303: updated dates = trial_end:0,end:0,date_created:2015-07-21 19:05:13
+11-21-2017 @ 12:52:41 - For subscription 3303: 27 rows of post meta added
+11-21-2017 @ 12:52:41 - For subscription 3303: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:41 - For subscription 3303: migrated 46 order notes
+11-21-2017 @ 12:52:41 - For subscription 3303: migrated 0 tax item/s
+11-21-2017 @ 12:52:41 - For subscription 3303: migrated 0 shipping item/s
+11-21-2017 @ 12:52:41 - For subscription 3303: migrated 0 coupon item/s
+11-21-2017 @ 12:52:42 - For subscription 3303: migrated data for renewal orders 2876, 2753, 2580, 2549, 2490, 2468, 2452, 2430, 2348, 2296
+11-21-2017 @ 12:52:42 - For subscription 3303: 10 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:42 - For subscription 3303: upgrade complete
+11-21-2017 @ 12:52:42 - For order 2290: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - For subscription 3304: post created
+11-21-2017 @ 12:52:42 - For subscription 3304: new line item ID 1319 added
+11-21-2017 @ 12:52:42 - For subscription 3304: for item 1319 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:42 - For subscription 3304: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:42 - For subscription 3304: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:42 - For subscription 3304: updated dates = trial_end:0,end:0,date_created:2015-08-17 04:44:19
+11-21-2017 @ 12:52:42 - For subscription 3304: 26 rows of post meta added
+11-21-2017 @ 12:52:42 - For subscription 3304: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:42 - For subscription 3304: migrated 9 order notes
+11-21-2017 @ 12:52:42 - For subscription 3304: migrated 0 tax item/s
+11-21-2017 @ 12:52:42 - For subscription 3304: migrated 0 shipping item/s
+11-21-2017 @ 12:52:42 - For subscription 3304: migrated 0 coupon item/s
+11-21-2017 @ 12:52:42 - For subscription 3304: migrated data for renewal orders 2426, 2336
+11-21-2017 @ 12:52:42 - For subscription 3304: 2 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:42 - For subscription 3304: upgrade complete
+11-21-2017 @ 12:52:42 - For order 2292: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - For subscription 3305: post created
+11-21-2017 @ 12:52:42 - For subscription 3305: new line item ID 1320 added
+11-21-2017 @ 12:52:42 - For subscription 3305: for item 1320 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:42 - For subscription 3305: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:42 - For subscription 3305: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:42 - For subscription 3305: updated dates = trial_end:0,end:0,next_payment:2020-01-19 20:29:38,date_created:2015-08-19 21:04:14
+11-21-2017 @ 12:52:42 - For subscription 3305: 27 rows of post meta added
+11-21-2017 @ 12:52:42 - For subscription 3305: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:42 - For subscription 3305: migrated 10 order notes
+11-21-2017 @ 12:52:42 - For subscription 3305: migrated 0 tax item/s
+11-21-2017 @ 12:52:42 - For subscription 3305: migrated 0 shipping item/s
+11-21-2017 @ 12:52:42 - For subscription 3305: migrated 0 coupon item/s
+11-21-2017 @ 12:52:42 - For subscription 3305: migrated data for renewal orders 2427, 2345
+11-21-2017 @ 12:52:42 - For subscription 3305: 2 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:42 - For subscription 3305: upgrade complete
+11-21-2017 @ 12:52:42 - For order 2299: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - !!! For order 2299: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:42 - For order 2301: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - !!! For order 2301: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:42 - For order 2303: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - !!! For order 2303: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:42 - For order 2305: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - !!! For order 2305: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:42 - For order 2307: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - !!! For order 2307: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:42 - For order 2309: beginning subscription upgrade process
+11-21-2017 @ 12:52:42 - !!! For order 2309: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:42 - For order 2311: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2311: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2313: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2313: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2315: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2315: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2317: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2317: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2319: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2319: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2321: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2321: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2323: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2323: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2325: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2325: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2327: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2327: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2329: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2329: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2331: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2331: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2334: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2334: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2337: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2337: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2339: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2339: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2341: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2341: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2343: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2343: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2409: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2409: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2411: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2411: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2413: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2413: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2415: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2415: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2417: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2417: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2424: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - For subscription 3307: post created
+11-21-2017 @ 12:52:43 - For subscription 3307: new line item ID 1321 added
+11-21-2017 @ 12:52:43 - For subscription 3307: for item 1321 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:43 - For subscription 3307: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3307: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:43 - For subscription 3307: updated dates = trial_end:0,end:0,next_payment:2020-11-15 02:59:47,date_created:2015-10-15 01:19:37
+11-21-2017 @ 12:52:43 - For subscription 3307: 27 rows of post meta added
+11-21-2017 @ 12:52:43 - For subscription 3307: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3307: migrated 4 order notes
+11-21-2017 @ 12:52:43 - For subscription 3307: migrated 0 tax item/s
+11-21-2017 @ 12:52:43 - For subscription 3307: migrated 0 shipping item/s
+11-21-2017 @ 12:52:43 - For subscription 3307: migrated 0 coupon item/s
+11-21-2017 @ 12:52:43 - For subscription 3307: migrated data for renewal orders 
+11-21-2017 @ 12:52:43 - For subscription 3307: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:43 - For subscription 3307: upgrade complete
+11-21-2017 @ 12:52:43 - For order 2437: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2437: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2443: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - For subscription 3309: post created
+11-21-2017 @ 12:52:43 - For subscription 3309: new line item ID 1322 added
+11-21-2017 @ 12:52:43 - For subscription 3309: for item 1322 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:43 - For subscription 3309: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:43 - For subscription 3309: updated dates = trial_end:0,end:0,next_payment:2020-04-24 23:24:56,date_created:2015-11-09 03:10:59
+11-21-2017 @ 12:52:43 - For subscription 3309: 23 rows of post meta added
+11-21-2017 @ 12:52:43 - For subscription 3309: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated 3 order notes
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated 0 tax item/s
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated 0 shipping item/s
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated 0 coupon item/s
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated data for renewal orders 
+11-21-2017 @ 12:52:43 - For subscription 3309: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:43 - For subscription 3309: migrated switch data for subscription 3297 purchased in order 2209
+11-21-2017 @ 12:52:43 - For subscription 3309: upgrade complete
+11-21-2017 @ 12:52:43 - For order 2447: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - For subscription 3311: post created
+11-21-2017 @ 12:52:43 - For subscription 3311: new line item ID 1323 added
+11-21-2017 @ 12:52:43 - For subscription 3311: for item 1323 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:43 - For subscription 3311: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3311: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:43 - For subscription 3311: updated dates = trial_end:0,end:0,next_payment:2020-12-17 00:31:52,date_created:2015-11-17 00:29:13
+11-21-2017 @ 12:52:43 - For subscription 3311: 27 rows of post meta added
+11-21-2017 @ 12:52:43 - For subscription 3311: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3311: migrated 4 order notes
+11-21-2017 @ 12:52:43 - For subscription 3311: migrated 0 tax item/s
+11-21-2017 @ 12:52:43 - For subscription 3311: migrated 0 shipping item/s
+11-21-2017 @ 12:52:43 - For subscription 3311: migrated 0 coupon item/s
+11-21-2017 @ 12:52:43 - For subscription 3311: migrated data for renewal orders 
+11-21-2017 @ 12:52:43 - For subscription 3311: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:43 - For subscription 3311: upgrade complete
+11-21-2017 @ 12:52:43 - For order 2454: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2454: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2457: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - !!! For order 2457: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:43 - For order 2462: beginning subscription upgrade process
+11-21-2017 @ 12:52:43 - For subscription 3313: post created
+11-21-2017 @ 12:52:43 - For subscription 3313: new line item ID 1324 added
+11-21-2017 @ 12:52:43 - For subscription 3313: for item 1324 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:43 - For subscription 3313: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:43 - For subscription 3313: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:44 - For subscription 3313: updated dates = trial_end:0,end:0,date_created:2015-12-06 04:26:49
+11-21-2017 @ 12:52:44 - For subscription 3313: 26 rows of post meta added
+11-21-2017 @ 12:52:44 - For subscription 3313: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:44 - For subscription 3313: migrated 5 order notes
+11-21-2017 @ 12:52:44 - For subscription 3313: migrated 0 tax item/s
+11-21-2017 @ 12:52:44 - For subscription 3313: migrated 0 shipping item/s
+11-21-2017 @ 12:52:44 - For subscription 3313: migrated 0 coupon item/s
+11-21-2017 @ 12:52:44 - For subscription 3313: migrated data for renewal orders 
+11-21-2017 @ 12:52:44 - For subscription 3313: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:44 - For subscription 3313: upgrade complete
+11-21-2017 @ 12:52:44 - For order 2478: beginning subscription upgrade process
+11-21-2017 @ 12:52:44 - For subscription 3314: post created
+11-21-2017 @ 12:52:44 - For subscription 3314: new line item ID 1325 added
+11-21-2017 @ 12:52:44 - For subscription 3314: for item 1325 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:44 - For subscription 3314: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:44 - For subscription 3314: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:44 - For subscription 3314: updated dates = trial_end:0,end:0,date_created:2016-01-17 04:09:14
+11-21-2017 @ 12:52:44 - For subscription 3314: 26 rows of post meta added
+11-21-2017 @ 12:52:44 - For subscription 3314: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:44 - For subscription 3314: migrated 9 order notes
+11-21-2017 @ 12:52:44 - For subscription 3314: migrated 0 tax item/s
+11-21-2017 @ 12:52:44 - For subscription 3314: migrated 0 shipping item/s
+11-21-2017 @ 12:52:44 - For subscription 3314: migrated 0 coupon item/s
+11-21-2017 @ 12:52:44 - For subscription 3314: migrated data for renewal orders 2546
+11-21-2017 @ 12:52:44 - For subscription 3314: 1 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:44 - For subscription 3314: upgrade complete
+11-21-2017 @ 12:52:44 - For order 2481: beginning subscription upgrade process
+11-21-2017 @ 12:52:44 - !!! For order 2481: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:44 - For order 2484: beginning subscription upgrade process
+11-21-2017 @ 12:52:44 - !!! For order 2484: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:44 - For order 2488: beginning subscription upgrade process
+11-21-2017 @ 12:52:44 - !!! For order 2488: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:44 - Upgraded batch of 50 subscriptions
+11-21-2017 @ 12:52:44 - Completed upgrade step: subscriptions
+11-21-2017 @ 12:52:46 - Starting upgrade step: subscriptions
+11-21-2017 @ 12:52:46 - Upgrading batch of 50 subscriptions
+11-21-2017 @ 12:52:46 - For order 2493: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - For subscription 3316: post created
+11-21-2017 @ 12:52:46 - For subscription 3316: new line item ID 1326 added
+11-21-2017 @ 12:52:46 - For subscription 3316: for item 1326 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:46 - For subscription 3316: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3316: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:46 - For subscription 3316: updated dates = trial_end:0,end:0,date_created:2016-01-26 22:42:45
+11-21-2017 @ 12:52:46 - For subscription 3316: 24 rows of post meta added
+11-21-2017 @ 12:52:46 - For subscription 3316: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3316: migrated 5 order notes
+11-21-2017 @ 12:52:46 - For subscription 3316: migrated 0 tax item/s
+11-21-2017 @ 12:52:46 - For subscription 3316: migrated 0 shipping item/s
+11-21-2017 @ 12:52:46 - For subscription 3316: migrated 0 coupon item/s
+11-21-2017 @ 12:52:46 - For subscription 3316: migrated data for renewal orders 
+11-21-2017 @ 12:52:46 - For subscription 3316: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:46 - For subscription 3316: upgrade complete
+11-21-2017 @ 12:52:46 - For order 2497: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2497: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2505: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2505: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2507: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2507: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2544: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2544: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2573: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - For subscription 3317: post created
+11-21-2017 @ 12:52:46 - For subscription 3317: new line item ID 1327 added
+11-21-2017 @ 12:52:46 - For subscription 3317: for item 1327 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:46 - For subscription 3317: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3317: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:46 - For subscription 3317: updated dates = trial_end:0,end:0,date_created:2016-03-09 07:54:18
+11-21-2017 @ 12:52:46 - For subscription 3317: 26 rows of post meta added
+11-21-2017 @ 12:52:46 - For subscription 3317: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3317: migrated 6 order notes
+11-21-2017 @ 12:52:46 - For subscription 3317: migrated 0 tax item/s
+11-21-2017 @ 12:52:46 - For subscription 3317: migrated 0 shipping item/s
+11-21-2017 @ 12:52:46 - For subscription 3317: migrated 0 coupon item/s
+11-21-2017 @ 12:52:46 - For subscription 3317: migrated data for renewal orders 2737
+11-21-2017 @ 12:52:46 - For subscription 3317: 1 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:46 - For subscription 3317: upgrade complete
+11-21-2017 @ 12:52:46 - For order 2575: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2575: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2577: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2577: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2744: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2744: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2754: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - For subscription 3318: post created
+11-21-2017 @ 12:52:46 - For subscription 3318: new line item ID 1328 added
+11-21-2017 @ 12:52:46 - For subscription 3318: for item 1328 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:46 - For subscription 3318: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3318: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:46 - For subscription 3318: updated dates = trial_end:0,end:0,date_created:2016-04-27 05:27:38
+11-21-2017 @ 12:52:46 - For subscription 3318: 26 rows of post meta added
+11-21-2017 @ 12:52:46 - For subscription 3318: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3318: migrated 6 order notes
+11-21-2017 @ 12:52:46 - For subscription 3318: migrated 0 tax item/s
+11-21-2017 @ 12:52:46 - For subscription 3318: migrated 0 shipping item/s
+11-21-2017 @ 12:52:46 - For subscription 3318: migrated 0 coupon item/s
+11-21-2017 @ 12:52:46 - For subscription 3318: migrated data for renewal orders 
+11-21-2017 @ 12:52:46 - For subscription 3318: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:46 - For subscription 3318: upgrade complete
+11-21-2017 @ 12:52:46 - For order 2758: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - For subscription 3319: post created
+11-21-2017 @ 12:52:46 - For subscription 3319: new line item ID 1329 added
+11-21-2017 @ 12:52:46 - For subscription 3319: for item 1329 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:46 - For subscription 3319: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:46 - For subscription 3319: updated dates = trial_end:0,end:0,date_created:2016-05-03 03:00:57
+11-21-2017 @ 12:52:46 - For subscription 3319: 23 rows of post meta added
+11-21-2017 @ 12:52:46 - For subscription 3319: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated 5 order notes
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated 0 tax item/s
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated 0 shipping item/s
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated 0 coupon item/s
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated data for renewal orders 
+11-21-2017 @ 12:52:46 - For subscription 3319: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:46 - For subscription 3319: migrated switch data for subscription 3318 purchased in order 2754
+11-21-2017 @ 12:52:46 - For subscription 3319: upgrade complete
+11-21-2017 @ 12:52:46 - For order 2764: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2764: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2770: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2770: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2771: beginning subscription upgrade process
+11-21-2017 @ 12:52:46 - !!! For order 2771: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:46 - For order 2772: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2772: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2773: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2773: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2774: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2774: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2775: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2775: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2776: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2776: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2778: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2778: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2781: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2781: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2788: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2788: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2791: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2791: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2793: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2793: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2797: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2797: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2810: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - For subscription 3320: post created
+11-21-2017 @ 12:52:47 - For subscription 3320: new line item ID 1330 added
+11-21-2017 @ 12:52:47 - For subscription 3320: for item 1330 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:47 - For subscription 3320: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3320: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:47 - For subscription 3320: updated dates = trial_end:0,end:0,next_payment:2017-07-15 20:14:19,date_created:2016-06-15 21:56:24
+11-21-2017 @ 12:52:47 - For subscription 3320: 27 rows of post meta added
+11-21-2017 @ 12:52:47 - For subscription 3320: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3320: migrated 4 order notes
+11-21-2017 @ 12:52:47 - For subscription 3320: migrated 0 tax item/s
+11-21-2017 @ 12:52:47 - For subscription 3320: migrated 0 shipping item/s
+11-21-2017 @ 12:52:47 - For subscription 3320: migrated 0 coupon item/s
+11-21-2017 @ 12:52:47 - For subscription 3320: migrated data for renewal orders 
+11-21-2017 @ 12:52:47 - For subscription 3320: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:47 - For subscription 3320: upgrade complete
+11-21-2017 @ 12:52:47 - For order 2812: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - For subscription 3321: post created
+11-21-2017 @ 12:52:47 - For subscription 3321: new line item ID 1331 added
+11-21-2017 @ 12:52:47 - For subscription 3321: for item 1331 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:47 - For subscription 3321: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3321: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:47 - For subscription 3321: updated dates = trial_end:0,end:0,next_payment:2017-07-21 20:14:04,date_created:2016-06-21 04:31:20
+11-21-2017 @ 12:52:47 - For subscription 3321: 27 rows of post meta added
+11-21-2017 @ 12:52:47 - For subscription 3321: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3321: migrated 4 order notes
+11-21-2017 @ 12:52:47 - For subscription 3321: migrated 0 tax item/s
+11-21-2017 @ 12:52:47 - For subscription 3321: migrated 0 shipping item/s
+11-21-2017 @ 12:52:47 - For subscription 3321: migrated 0 coupon item/s
+11-21-2017 @ 12:52:47 - For subscription 3321: migrated data for renewal orders 
+11-21-2017 @ 12:52:47 - For subscription 3321: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:47 - For subscription 3321: upgrade complete
+11-21-2017 @ 12:52:47 - For order 2822: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2822: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2824: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2824: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2829: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - For subscription 3322: post created
+11-21-2017 @ 12:52:47 - For subscription 3322: new line item ID 1332 added
+11-21-2017 @ 12:52:47 - For subscription 3322: for item 1332 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:47 - For subscription 3322: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3322: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:47 - For subscription 3322: updated dates = trial_end:0,end:0,next_payment:2017-08-08 17:47:12,date_created:2016-07-08 17:46:07
+11-21-2017 @ 12:52:47 - For subscription 3322: 24 rows of post meta added
+11-21-2017 @ 12:52:47 - For subscription 3322: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3322: migrated 4 order notes
+11-21-2017 @ 12:52:47 - For subscription 3322: migrated 0 tax item/s
+11-21-2017 @ 12:52:47 - For subscription 3322: migrated 0 shipping item/s
+11-21-2017 @ 12:52:47 - For subscription 3322: migrated 0 coupon item/s
+11-21-2017 @ 12:52:47 - For subscription 3322: migrated data for renewal orders 
+11-21-2017 @ 12:52:47 - For subscription 3322: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:47 - For subscription 3322: upgrade complete
+11-21-2017 @ 12:52:47 - For order 2832: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2832: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2835: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - For subscription 3323: post created
+11-21-2017 @ 12:52:47 - For subscription 3323: new line item ID 1333 added
+11-21-2017 @ 12:52:47 - For subscription 3323: for item 1333 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:47 - For subscription 3323: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3323: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:47 - For subscription 3323: updated dates = trial_end:0,end:0,date_created:2016-07-21 05:42:50
+11-21-2017 @ 12:52:47 - For subscription 3323: 27 rows of post meta added
+11-21-2017 @ 12:52:47 - For subscription 3323: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3323: migrated 5 order notes
+11-21-2017 @ 12:52:47 - For subscription 3323: migrated 0 tax item/s
+11-21-2017 @ 12:52:47 - For subscription 3323: migrated 0 shipping item/s
+11-21-2017 @ 12:52:47 - For subscription 3323: migrated 0 coupon item/s
+11-21-2017 @ 12:52:47 - For subscription 3323: migrated data for renewal orders 
+11-21-2017 @ 12:52:47 - For subscription 3323: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:47 - For subscription 3323: upgrade complete
+11-21-2017 @ 12:52:47 - For order 2859: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - !!! For order 2859: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:47 - For order 2862: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - For subscription 3324: post created
+11-21-2017 @ 12:52:47 - For subscription 3324: new line item ID 1334 added
+11-21-2017 @ 12:52:47 - For subscription 3324: for item 1334 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:47 - For subscription 3324: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3324: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:47 - For subscription 3324: updated dates = trial_end:0,end:0,date_created:2016-07-25 06:58:12
+11-21-2017 @ 12:52:47 - For subscription 3324: 27 rows of post meta added
+11-21-2017 @ 12:52:47 - For subscription 3324: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:47 - For subscription 3324: migrated 5 order notes
+11-21-2017 @ 12:52:47 - For subscription 3324: migrated 0 tax item/s
+11-21-2017 @ 12:52:47 - For subscription 3324: migrated 0 shipping item/s
+11-21-2017 @ 12:52:47 - For subscription 3324: migrated 0 coupon item/s
+11-21-2017 @ 12:52:47 - For subscription 3324: migrated data for renewal orders 
+11-21-2017 @ 12:52:47 - For subscription 3324: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:47 - For subscription 3324: upgrade complete
+11-21-2017 @ 12:52:47 - For order 2864: beginning subscription upgrade process
+11-21-2017 @ 12:52:47 - For subscription 3325: post created
+11-21-2017 @ 12:52:48 - For subscription 3325: new line item ID 1335 added
+11-21-2017 @ 12:52:48 - For subscription 3325: for item 1335 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3325: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3325: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3325: updated dates = trial_end:0,end:0,date_created:2016-07-26 04:58:44
+11-21-2017 @ 12:52:48 - For subscription 3325: 27 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3325: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3325: migrated 5 order notes
+11-21-2017 @ 12:52:48 - For subscription 3325: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3325: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3325: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3325: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3325: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3325: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2868: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - For subscription 3326: post created
+11-21-2017 @ 12:52:48 - For subscription 3326: new line item ID 1336 added
+11-21-2017 @ 12:52:48 - For subscription 3326: for item 1336 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3326: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3326: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3326: updated dates = trial_end:0,end:0,date_created:2016-08-08 01:51:12
+11-21-2017 @ 12:52:48 - For subscription 3326: 28 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3326: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3326: migrated 5 order notes
+11-21-2017 @ 12:52:48 - For subscription 3326: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3326: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3326: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3326: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3326: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3326: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2870: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - For subscription 3327: post created
+11-21-2017 @ 12:52:48 - For subscription 3327: new line item ID 1337 added
+11-21-2017 @ 12:52:48 - For subscription 3327: for item 1337 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3327: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3327: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3327: updated dates = trial_end:0,end:0,date_created:2016-08-11 22:18:00
+11-21-2017 @ 12:52:48 - For subscription 3327: 28 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3327: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3327: migrated 5 order notes
+11-21-2017 @ 12:52:48 - For subscription 3327: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3327: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3327: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3327: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3327: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3327: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2872: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - For subscription 3328: post created
+11-21-2017 @ 12:52:48 - For subscription 3328: new line item ID 1338 added
+11-21-2017 @ 12:52:48 - For subscription 3328: for item 1338 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3328: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3328: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3328: updated dates = trial_end:0,end:0,date_created:2016-08-11 22:24:29
+11-21-2017 @ 12:52:48 - For subscription 3328: 29 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3328: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3328: migrated 5 order notes
+11-21-2017 @ 12:52:48 - For subscription 3328: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3328: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3328: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3328: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3328: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3328: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2877: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - For subscription 3329: post created
+11-21-2017 @ 12:52:48 - For subscription 3329: new line item ID 1339 added
+11-21-2017 @ 12:52:48 - For subscription 3329: for item 1339 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3329: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3329: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3329: updated dates = trial_end:0,end:0,date_created:2016-08-13 06:36:03
+11-21-2017 @ 12:52:48 - For subscription 3329: 31 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3329: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3329: migrated 4 order notes
+11-21-2017 @ 12:52:48 - For subscription 3329: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3329: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3329: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3329: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3329: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3329: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2882: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - For subscription 3330: post created
+11-21-2017 @ 12:52:48 - For subscription 3330: new line item ID 1340 added
+11-21-2017 @ 12:52:48 - For subscription 3330: for item 1340 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3330: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3330: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3330: updated dates = trial_end:0,end:0,date_created:2016-10-30 20:51:08
+11-21-2017 @ 12:52:48 - For subscription 3330: 31 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3330: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3330: migrated 4 order notes
+11-21-2017 @ 12:52:48 - For subscription 3330: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3330: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3330: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3330: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3330: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3330: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2896: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - For subscription 3331: post created
+11-21-2017 @ 12:52:48 - For subscription 3331: new line item ID 1341 added
+11-21-2017 @ 12:52:48 - For subscription 3331: for item 1341 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:48 - For subscription 3331: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3331: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:48 - For subscription 3331: updated dates = trial_end:0,end:0,date_created:2017-01-20 01:31:19
+11-21-2017 @ 12:52:48 - For subscription 3331: 31 rows of post meta added
+11-21-2017 @ 12:52:48 - For subscription 3331: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:48 - For subscription 3331: migrated 4 order notes
+11-21-2017 @ 12:52:48 - For subscription 3331: migrated 0 tax item/s
+11-21-2017 @ 12:52:48 - For subscription 3331: migrated 0 shipping item/s
+11-21-2017 @ 12:52:48 - For subscription 3331: migrated 0 coupon item/s
+11-21-2017 @ 12:52:48 - For subscription 3331: migrated data for renewal orders 
+11-21-2017 @ 12:52:48 - For subscription 3331: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:48 - For subscription 3331: upgrade complete
+11-21-2017 @ 12:52:48 - For order 2898: beginning subscription upgrade process
+11-21-2017 @ 12:52:48 - !!! For order 2898: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:48 - For order 2903: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - For subscription 3332: post created
+11-21-2017 @ 12:52:49 - For subscription 3332: new line item ID 1342 added
+11-21-2017 @ 12:52:49 - For subscription 3332: for item 1342 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:49 - For subscription 3332: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3332: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:49 - For subscription 3332: updated dates = trial_end:0,end:0,date_created:2017-02-14 08:20:04
+11-21-2017 @ 12:52:49 - For subscription 3332: 31 rows of post meta added
+11-21-2017 @ 12:52:49 - For subscription 3332: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3332: migrated 4 order notes
+11-21-2017 @ 12:52:49 - For subscription 3332: migrated 0 tax item/s
+11-21-2017 @ 12:52:49 - For subscription 3332: migrated 0 shipping item/s
+11-21-2017 @ 12:52:49 - For subscription 3332: migrated 0 coupon item/s
+11-21-2017 @ 12:52:49 - For subscription 3332: migrated data for renewal orders 
+11-21-2017 @ 12:52:49 - For subscription 3332: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:49 - For subscription 3332: upgrade complete
+11-21-2017 @ 12:52:49 - For order 2909: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - !!! For order 2909: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:49 - For order 2954: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - For subscription 3333: post created
+11-21-2017 @ 12:52:49 - For subscription 3333: new line item ID 1343 added
+11-21-2017 @ 12:52:49 - For subscription 3333: for item 1343 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:49 - For subscription 3333: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3333: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:49 - For subscription 3333: updated dates = trial_end:0,end:0,next_payment:2017-05-03 10:17:50,date_created:2017-04-03 10:17:50
+11-21-2017 @ 12:52:49 - For subscription 3333: 35 rows of post meta added
+11-21-2017 @ 12:52:49 - For subscription 3333: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3333: migrated 3 order notes
+11-21-2017 @ 12:52:49 - For subscription 3333: migrated 0 tax item/s
+11-21-2017 @ 12:52:49 - For subscription 3333: migrated 0 shipping item/s
+11-21-2017 @ 12:52:49 - For subscription 3333: migrated 0 coupon item/s
+11-21-2017 @ 12:52:49 - For subscription 3333: migrated data for renewal orders 
+11-21-2017 @ 12:52:49 - For subscription 3333: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:49 - For subscription 3333: upgrade complete
+11-21-2017 @ 12:52:49 - For order 2957: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - For subscription 3334: post created
+11-21-2017 @ 12:52:49 - For subscription 3334: new line item ID 1344 added
+11-21-2017 @ 12:52:49 - For subscription 3334: for item 1344 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:49 - For subscription 3334: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3334: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:49 - For subscription 3334: updated dates = trial_end:0,end:0,next_payment:2017-05-03 11:19:40,date_created:2017-04-03 11:19:40
+11-21-2017 @ 12:52:49 - For subscription 3334: 31 rows of post meta added
+11-21-2017 @ 12:52:49 - For subscription 3334: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3334: migrated 3 order notes
+11-21-2017 @ 12:52:49 - For subscription 3334: migrated 0 tax item/s
+11-21-2017 @ 12:52:49 - For subscription 3334: migrated 0 shipping item/s
+11-21-2017 @ 12:52:49 - For subscription 3334: migrated 0 coupon item/s
+11-21-2017 @ 12:52:49 - For subscription 3334: migrated data for renewal orders 
+11-21-2017 @ 12:52:49 - For subscription 3334: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:49 - For subscription 3334: upgrade complete
+11-21-2017 @ 12:52:49 - For order 2963: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - For subscription 3335: post created
+11-21-2017 @ 12:52:49 - For subscription 3335: new line item ID 1345 added
+11-21-2017 @ 12:52:49 - For subscription 3335: for item 1345 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:49 - For subscription 3335: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3335: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:49 - For subscription 3335: updated dates = trial_end:0,end:0,next_payment:2017-05-06 10:50:39,date_created:2017-04-06 10:50:39
+11-21-2017 @ 12:52:49 - For subscription 3335: 31 rows of post meta added
+11-21-2017 @ 12:52:49 - For subscription 3335: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3335: migrated 3 order notes
+11-21-2017 @ 12:52:49 - For subscription 3335: migrated 0 tax item/s
+11-21-2017 @ 12:52:49 - For subscription 3335: migrated 0 shipping item/s
+11-21-2017 @ 12:52:49 - For subscription 3335: migrated 1 coupon item/s
+11-21-2017 @ 12:52:49 - For subscription 3335: migrated data for renewal orders 
+11-21-2017 @ 12:52:49 - For subscription 3335: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:49 - For subscription 3335: upgrade complete
+11-21-2017 @ 12:52:49 - For order 2965: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - For subscription 3336: post created
+11-21-2017 @ 12:52:49 - For subscription 3336: new line item ID 1346 added
+11-21-2017 @ 12:52:49 - For subscription 3336: for item 1346 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:49 - For subscription 3336: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3336: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:49 - For subscription 3336: updated dates = trial_end:0,end:0,next_payment:2017-05-06 10:55:21,date_created:2017-04-06 10:55:21
+11-21-2017 @ 12:52:49 - For subscription 3336: 32 rows of post meta added
+11-21-2017 @ 12:52:49 - For subscription 3336: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:49 - For subscription 3336: migrated 3 order notes
+11-21-2017 @ 12:52:49 - For subscription 3336: migrated 0 tax item/s
+11-21-2017 @ 12:52:49 - For subscription 3336: migrated 0 shipping item/s
+11-21-2017 @ 12:52:49 - For subscription 3336: migrated 1 coupon item/s
+11-21-2017 @ 12:52:49 - For subscription 3336: migrated data for renewal orders 
+11-21-2017 @ 12:52:49 - For subscription 3336: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:49 - For subscription 3336: upgrade complete
+11-21-2017 @ 12:52:49 - For order 2967: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - !!! For order 2967: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:49 - For order 2969: beginning subscription upgrade process
+11-21-2017 @ 12:52:49 - !!! For order 2969: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:49 - Upgraded batch of 50 subscriptions
+11-21-2017 @ 12:52:49 - Completed upgrade step: subscriptions
+11-21-2017 @ 12:52:51 - Starting upgrade step: subscriptions
+11-21-2017 @ 12:52:51 - Upgrading batch of 50 subscriptions
+11-21-2017 @ 12:52:51 - For order 3023: beginning subscription upgrade process
+11-21-2017 @ 12:52:51 - For subscription 3337: post created
+11-21-2017 @ 12:52:51 - For subscription 3337: new line item ID 1347 added
+11-21-2017 @ 12:52:51 - For subscription 3337: for item 1347 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:51 - For subscription 3337: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:51 - For subscription 3337: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:51 - For subscription 3337: updated dates = trial_end:0,end:0,next_payment:2017-05-19 14:40:51,date_created:2017-04-19 14:40:51
+11-21-2017 @ 12:52:51 - For subscription 3337: 32 rows of post meta added
+11-21-2017 @ 12:52:51 - For subscription 3337: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:51 - For subscription 3337: migrated 3 order notes
+11-21-2017 @ 12:52:51 - For subscription 3337: migrated 0 tax item/s
+11-21-2017 @ 12:52:51 - For subscription 3337: migrated 0 shipping item/s
+11-21-2017 @ 12:52:51 - For subscription 3337: migrated 0 coupon item/s
+11-21-2017 @ 12:52:51 - For subscription 3337: migrated data for renewal orders 
+11-21-2017 @ 12:52:51 - For subscription 3337: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:51 - For subscription 3337: upgrade complete
+11-21-2017 @ 12:52:51 - For order 3027: beginning subscription upgrade process
+11-21-2017 @ 12:52:51 - For subscription 3338: post created
+11-21-2017 @ 12:52:51 - For subscription 3338: new line item ID 1348 added
+11-21-2017 @ 12:52:51 - For subscription 3338: for item 1348 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:51 - For subscription 3338: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:51 - For subscription 3338: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:51 - For subscription 3338: updated dates = trial_end:0,end:0,next_payment:2017-05-26 06:44:15,date_created:2017-04-26 06:44:15
+11-21-2017 @ 12:52:52 - For subscription 3338: 31 rows of post meta added
+11-21-2017 @ 12:52:52 - For subscription 3338: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3338: migrated 3 order notes
+11-21-2017 @ 12:52:52 - For subscription 3338: migrated 0 tax item/s
+11-21-2017 @ 12:52:52 - For subscription 3338: migrated 0 shipping item/s
+11-21-2017 @ 12:52:52 - For subscription 3338: migrated 0 coupon item/s
+11-21-2017 @ 12:52:52 - For subscription 3338: migrated data for renewal orders 
+11-21-2017 @ 12:52:52 - For subscription 3338: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:52 - For subscription 3338: upgrade complete
+11-21-2017 @ 12:52:52 - For order 3029: beginning subscription upgrade process
+11-21-2017 @ 12:52:52 - For subscription 3339: post created
+11-21-2017 @ 12:52:52 - For subscription 3339: new line item ID 1349 added
+11-21-2017 @ 12:52:52 - For subscription 3339: for item 1349 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:52 - For subscription 3339: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3339: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:52 - For subscription 3339: updated dates = trial_end:0,end:0,next_payment:2017-05-26 06:47:25,date_created:2017-04-26 06:47:25
+11-21-2017 @ 12:52:52 - For subscription 3339: 31 rows of post meta added
+11-21-2017 @ 12:52:52 - For subscription 3339: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3339: migrated 3 order notes
+11-21-2017 @ 12:52:52 - For subscription 3339: migrated 0 tax item/s
+11-21-2017 @ 12:52:52 - For subscription 3339: migrated 0 shipping item/s
+11-21-2017 @ 12:52:52 - For subscription 3339: migrated 0 coupon item/s
+11-21-2017 @ 12:52:52 - For subscription 3339: migrated data for renewal orders 
+11-21-2017 @ 12:52:52 - For subscription 3339: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:52 - For subscription 3339: upgrade complete
+11-21-2017 @ 12:52:52 - For order 3031: beginning subscription upgrade process
+11-21-2017 @ 12:52:52 - For subscription 3340: post created
+11-21-2017 @ 12:52:52 - For subscription 3340: new line item ID 1350 added
+11-21-2017 @ 12:52:52 - For subscription 3340: for item 1350 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:52 - For subscription 3340: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3340: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:52 - For subscription 3340: updated dates = trial_end:0,end:0,next_payment:2017-05-26 06:58:08,date_created:2017-04-26 06:58:08
+11-21-2017 @ 12:52:52 - For subscription 3340: 31 rows of post meta added
+11-21-2017 @ 12:52:52 - For subscription 3340: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3340: migrated 3 order notes
+11-21-2017 @ 12:52:52 - For subscription 3340: migrated 0 tax item/s
+11-21-2017 @ 12:52:52 - For subscription 3340: migrated 0 shipping item/s
+11-21-2017 @ 12:52:52 - For subscription 3340: migrated 0 coupon item/s
+11-21-2017 @ 12:52:52 - For subscription 3340: migrated data for renewal orders 
+11-21-2017 @ 12:52:52 - For subscription 3340: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:52 - For subscription 3340: upgrade complete
+11-21-2017 @ 12:52:52 - For order 3033: beginning subscription upgrade process
+11-21-2017 @ 12:52:52 - For subscription 3341: post created
+11-21-2017 @ 12:52:52 - For subscription 3341: new line item ID 1351 added
+11-21-2017 @ 12:52:52 - For subscription 3341: for item 1351 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:52 - For subscription 3341: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3341: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:52 - For subscription 3341: updated dates = trial_end:0,end:0,next_payment:2017-05-26 07:01:02,date_created:2017-04-26 07:01:02
+11-21-2017 @ 12:52:52 - For subscription 3341: 31 rows of post meta added
+11-21-2017 @ 12:52:52 - For subscription 3341: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3341: migrated 3 order notes
+11-21-2017 @ 12:52:52 - For subscription 3341: migrated 0 tax item/s
+11-21-2017 @ 12:52:52 - For subscription 3341: migrated 0 shipping item/s
+11-21-2017 @ 12:52:52 - For subscription 3341: migrated 0 coupon item/s
+11-21-2017 @ 12:52:52 - For subscription 3341: migrated data for renewal orders 
+11-21-2017 @ 12:52:52 - For subscription 3341: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:52 - For subscription 3341: upgrade complete
+11-21-2017 @ 12:52:52 - For order 3035: beginning subscription upgrade process
+11-21-2017 @ 12:52:52 - For subscription 3342: post created
+11-21-2017 @ 12:52:52 - For subscription 3342: new line item ID 1352 added
+11-21-2017 @ 12:52:52 - For subscription 3342: for item 1352 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:52 - For subscription 3342: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3342: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:52 - For subscription 3342: updated dates = trial_end:0,end:0,next_payment:2017-05-26 07:08:38,date_created:2017-04-26 07:08:38
+11-21-2017 @ 12:52:52 - For subscription 3342: 31 rows of post meta added
+11-21-2017 @ 12:52:52 - For subscription 3342: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3342: migrated 3 order notes
+11-21-2017 @ 12:52:52 - For subscription 3342: migrated 0 tax item/s
+11-21-2017 @ 12:52:52 - For subscription 3342: migrated 0 shipping item/s
+11-21-2017 @ 12:52:52 - For subscription 3342: migrated 0 coupon item/s
+11-21-2017 @ 12:52:52 - For subscription 3342: migrated data for renewal orders 
+11-21-2017 @ 12:52:52 - For subscription 3342: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:52 - For subscription 3342: upgrade complete
+11-21-2017 @ 12:52:52 - For order 3037: beginning subscription upgrade process
+11-21-2017 @ 12:52:52 - For subscription 3343: post created
+11-21-2017 @ 12:52:52 - For subscription 3343: new line item ID 1353 added
+11-21-2017 @ 12:52:52 - For subscription 3343: for item 1353 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:52 - For subscription 3343: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3343: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:52 - For subscription 3343: updated dates = trial_end:0,end:0,next_payment:2017-05-26 07:17:15,date_created:2017-04-26 07:17:15
+11-21-2017 @ 12:52:52 - For subscription 3343: 31 rows of post meta added
+11-21-2017 @ 12:52:52 - For subscription 3343: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:52 - For subscription 3343: migrated 3 order notes
+11-21-2017 @ 12:52:52 - For subscription 3343: migrated 0 tax item/s
+11-21-2017 @ 12:52:52 - For subscription 3343: migrated 0 shipping item/s
+11-21-2017 @ 12:52:52 - For subscription 3343: migrated 0 coupon item/s
+11-21-2017 @ 12:52:52 - For subscription 3343: migrated data for renewal orders 
+11-21-2017 @ 12:52:52 - For subscription 3343: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:52 - For subscription 3343: upgrade complete
+11-21-2017 @ 12:52:52 - For order 3039: beginning subscription upgrade process
+11-21-2017 @ 12:52:52 - For subscription 3344: post created
+11-21-2017 @ 12:52:53 - For subscription 3344: new line item ID 1354 added
+11-21-2017 @ 12:52:53 - For subscription 3344: for item 1354 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:53 - For subscription 3344: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3344: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:53 - For subscription 3344: updated dates = trial_end:0,end:0,next_payment:2017-05-27 05:05:39,date_created:2017-04-27 05:05:39
+11-21-2017 @ 12:52:53 - For subscription 3344: 31 rows of post meta added
+11-21-2017 @ 12:52:53 - For subscription 3344: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3344: migrated 3 order notes
+11-21-2017 @ 12:52:53 - For subscription 3344: migrated 0 tax item/s
+11-21-2017 @ 12:52:53 - For subscription 3344: migrated 0 shipping item/s
+11-21-2017 @ 12:52:53 - For subscription 3344: migrated 0 coupon item/s
+11-21-2017 @ 12:52:53 - For subscription 3344: migrated data for renewal orders 
+11-21-2017 @ 12:52:53 - For subscription 3344: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:53 - For subscription 3344: upgrade complete
+11-21-2017 @ 12:52:53 - For order 3041: beginning subscription upgrade process
+11-21-2017 @ 12:52:53 - For subscription 3345: post created
+11-21-2017 @ 12:52:53 - For subscription 3345: new line item ID 1355 added
+11-21-2017 @ 12:52:53 - For subscription 3345: for item 1355 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:53 - For subscription 3345: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3345: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:53 - For subscription 3345: updated dates = trial_end:0,end:0,next_payment:2017-05-28 07:03:00,date_created:2017-04-28 07:03:00
+11-21-2017 @ 12:52:53 - For subscription 3345: 31 rows of post meta added
+11-21-2017 @ 12:52:53 - For subscription 3345: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3345: migrated 3 order notes
+11-21-2017 @ 12:52:53 - For subscription 3345: migrated 0 tax item/s
+11-21-2017 @ 12:52:53 - For subscription 3345: migrated 0 shipping item/s
+11-21-2017 @ 12:52:53 - For subscription 3345: migrated 0 coupon item/s
+11-21-2017 @ 12:52:53 - For subscription 3345: migrated data for renewal orders 
+11-21-2017 @ 12:52:53 - For subscription 3345: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:53 - For subscription 3345: upgrade complete
+11-21-2017 @ 12:52:53 - For order 3043: beginning subscription upgrade process
+11-21-2017 @ 12:52:53 - For subscription 3346: post created
+11-21-2017 @ 12:52:53 - For subscription 3346: new line item ID 1356 added
+11-21-2017 @ 12:52:53 - For subscription 3346: for item 1356 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:53 - For subscription 3346: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3346: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:53 - For subscription 3346: updated dates = trial_end:0,end:0,next_payment:2017-05-29 07:22:30,date_created:2017-04-29 07:22:30
+11-21-2017 @ 12:52:53 - For subscription 3346: 31 rows of post meta added
+11-21-2017 @ 12:52:53 - For subscription 3346: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3346: migrated 3 order notes
+11-21-2017 @ 12:52:53 - For subscription 3346: migrated 0 tax item/s
+11-21-2017 @ 12:52:53 - For subscription 3346: migrated 0 shipping item/s
+11-21-2017 @ 12:52:53 - For subscription 3346: migrated 0 coupon item/s
+11-21-2017 @ 12:52:53 - For subscription 3346: migrated data for renewal orders 
+11-21-2017 @ 12:52:53 - For subscription 3346: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:53 - For subscription 3346: upgrade complete
+11-21-2017 @ 12:52:53 - For order 3045: beginning subscription upgrade process
+11-21-2017 @ 12:52:53 - For subscription 3347: post created
+11-21-2017 @ 12:52:53 - For subscription 3347: new line item ID 1357 added
+11-21-2017 @ 12:52:53 - For subscription 3347: for item 1357 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:53 - For subscription 3347: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3347: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:53 - For subscription 3347: updated dates = trial_end:0,end:0,next_payment:2017-06-04 10:43:14,date_created:2017-05-04 10:43:14
+11-21-2017 @ 12:52:53 - For subscription 3347: 31 rows of post meta added
+11-21-2017 @ 12:52:53 - For subscription 3347: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3347: migrated 3 order notes
+11-21-2017 @ 12:52:53 - For subscription 3347: migrated 0 tax item/s
+11-21-2017 @ 12:52:53 - For subscription 3347: migrated 0 shipping item/s
+11-21-2017 @ 12:52:53 - For subscription 3347: migrated 0 coupon item/s
+11-21-2017 @ 12:52:53 - For subscription 3347: migrated data for renewal orders 
+11-21-2017 @ 12:52:53 - For subscription 3347: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:53 - For subscription 3347: upgrade complete
+11-21-2017 @ 12:52:53 - For order 3047: beginning subscription upgrade process
+11-21-2017 @ 12:52:53 - For subscription 3348: post created
+11-21-2017 @ 12:52:53 - For subscription 3348: new line item ID 1358 added
+11-21-2017 @ 12:52:53 - For subscription 3348: for item 1358 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:53 - For subscription 3348: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3348: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:53 - For subscription 3348: updated dates = trial_end:0,end:0,next_payment:2017-06-09 06:48:54,date_created:2017-05-09 06:48:54
+11-21-2017 @ 12:52:53 - For subscription 3348: 31 rows of post meta added
+11-21-2017 @ 12:52:53 - For subscription 3348: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3348: migrated 3 order notes
+11-21-2017 @ 12:52:53 - For subscription 3348: migrated 0 tax item/s
+11-21-2017 @ 12:52:53 - For subscription 3348: migrated 0 shipping item/s
+11-21-2017 @ 12:52:53 - For subscription 3348: migrated 0 coupon item/s
+11-21-2017 @ 12:52:53 - For subscription 3348: migrated data for renewal orders 
+11-21-2017 @ 12:52:53 - For subscription 3348: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:53 - For subscription 3348: upgrade complete
+11-21-2017 @ 12:52:53 - For order 3049: beginning subscription upgrade process
+11-21-2017 @ 12:52:53 - For subscription 3349: post created
+11-21-2017 @ 12:52:53 - For subscription 3349: new line item ID 1359 added
+11-21-2017 @ 12:52:53 - For subscription 3349: for item 1359 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:53 - For subscription 3349: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3349: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:53 - For subscription 3349: updated dates = trial_end:0,end:0,next_payment:2017-06-09 09:09:41,date_created:2017-05-09 09:09:41
+11-21-2017 @ 12:52:53 - For subscription 3349: 31 rows of post meta added
+11-21-2017 @ 12:52:53 - For subscription 3349: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:53 - For subscription 3349: migrated 3 order notes
+11-21-2017 @ 12:52:53 - For subscription 3349: migrated 0 tax item/s
+11-21-2017 @ 12:52:53 - For subscription 3349: migrated 0 shipping item/s
+11-21-2017 @ 12:52:53 - For subscription 3349: migrated 0 coupon item/s
+11-21-2017 @ 12:52:53 - For subscription 3349: migrated data for renewal orders 
+11-21-2017 @ 12:52:53 - For subscription 3349: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:53 - For subscription 3349: upgrade complete
+11-21-2017 @ 12:52:53 - For order 3051: beginning subscription upgrade process
+11-21-2017 @ 12:52:54 - For subscription 3350: post created
+11-21-2017 @ 12:52:54 - For subscription 3350: new line item ID 1360 added
+11-21-2017 @ 12:52:54 - For subscription 3350: for item 1360 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:54 - For subscription 3350: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3350: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:54 - For subscription 3350: updated dates = trial_end:0,end:0,next_payment:2018-05-09 10:28:57,date_created:2017-05-09 10:28:57
+11-21-2017 @ 12:52:54 - For subscription 3350: 31 rows of post meta added
+11-21-2017 @ 12:52:54 - For subscription 3350: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3350: migrated 3 order notes
+11-21-2017 @ 12:52:54 - For subscription 3350: migrated 0 tax item/s
+11-21-2017 @ 12:52:54 - For subscription 3350: migrated 0 shipping item/s
+11-21-2017 @ 12:52:54 - For subscription 3350: migrated 0 coupon item/s
+11-21-2017 @ 12:52:54 - For subscription 3350: migrated data for renewal orders 
+11-21-2017 @ 12:52:54 - For subscription 3350: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:54 - For subscription 3350: upgrade complete
+11-21-2017 @ 12:52:54 - For order 3053: beginning subscription upgrade process
+11-21-2017 @ 12:52:54 - For subscription 3352: post created
+11-21-2017 @ 12:52:54 - For subscription 3352: new line item ID 1361 added
+11-21-2017 @ 12:52:54 - For subscription 3352: for item 1361 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:54 - For subscription 3352: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3352: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:54 - For subscription 3352: updated dates = trial_end:0,end:0,next_payment:2017-06-10 05:53:38,date_created:2017-05-10 05:53:38
+11-21-2017 @ 12:52:54 - For subscription 3352: 31 rows of post meta added
+11-21-2017 @ 12:52:54 - For subscription 3352: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3352: migrated 3 order notes
+11-21-2017 @ 12:52:54 - For subscription 3352: migrated 0 tax item/s
+11-21-2017 @ 12:52:54 - For subscription 3352: migrated 0 shipping item/s
+11-21-2017 @ 12:52:54 - For subscription 3352: migrated 0 coupon item/s
+11-21-2017 @ 12:52:54 - For subscription 3352: migrated data for renewal orders 
+11-21-2017 @ 12:52:54 - For subscription 3352: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:54 - For subscription 3352: upgrade complete
+11-21-2017 @ 12:52:54 - For order 3055: beginning subscription upgrade process
+11-21-2017 @ 12:52:54 - For subscription 3353: post created
+11-21-2017 @ 12:52:54 - For subscription 3353: new line item ID 1362 added
+11-21-2017 @ 12:52:54 - For subscription 3353: for item 1362 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:54 - For subscription 3353: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3353: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:54 - For subscription 3353: updated dates = trial_end:0,end:0,next_payment:2017-06-10 07:14:08,date_created:2017-05-10 07:14:08
+11-21-2017 @ 12:52:54 - For subscription 3353: 31 rows of post meta added
+11-21-2017 @ 12:52:54 - For subscription 3353: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3353: migrated 3 order notes
+11-21-2017 @ 12:52:54 - For subscription 3353: migrated 0 tax item/s
+11-21-2017 @ 12:52:54 - For subscription 3353: migrated 0 shipping item/s
+11-21-2017 @ 12:52:54 - For subscription 3353: migrated 0 coupon item/s
+11-21-2017 @ 12:52:54 - For subscription 3353: migrated data for renewal orders 
+11-21-2017 @ 12:52:54 - For subscription 3353: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:54 - For subscription 3353: upgrade complete
+11-21-2017 @ 12:52:54 - For order 3057: beginning subscription upgrade process
+11-21-2017 @ 12:52:54 - For subscription 3354: post created
+11-21-2017 @ 12:52:54 - For subscription 3354: new line item ID 1363 added
+11-21-2017 @ 12:52:54 - For subscription 3354: for item 1363 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:54 - For subscription 3354: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3354: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:54 - For subscription 3354: updated dates = trial_end:0,end:0,next_payment:2017-06-10 08:36:25,date_created:2017-05-10 08:36:25
+11-21-2017 @ 12:52:54 - For subscription 3354: 31 rows of post meta added
+11-21-2017 @ 12:52:54 - For subscription 3354: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3354: migrated 3 order notes
+11-21-2017 @ 12:52:54 - For subscription 3354: migrated 0 tax item/s
+11-21-2017 @ 12:52:54 - For subscription 3354: migrated 0 shipping item/s
+11-21-2017 @ 12:52:54 - For subscription 3354: migrated 0 coupon item/s
+11-21-2017 @ 12:52:54 - For subscription 3354: migrated data for renewal orders 
+11-21-2017 @ 12:52:54 - For subscription 3354: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:54 - For subscription 3354: upgrade complete
+11-21-2017 @ 12:52:54 - For order 3059: beginning subscription upgrade process
+11-21-2017 @ 12:52:54 - For subscription 3355: post created
+11-21-2017 @ 12:52:54 - For subscription 3355: new line item ID 1364 added
+11-21-2017 @ 12:52:54 - For subscription 3355: for item 1364 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:54 - For subscription 3355: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3355: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:54 - For subscription 3355: updated dates = trial_end:0,end:0,next_payment:2017-06-11 03:35:11,date_created:2017-05-11 03:35:11
+11-21-2017 @ 12:52:54 - For subscription 3355: 31 rows of post meta added
+11-21-2017 @ 12:52:54 - For subscription 3355: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3355: migrated 3 order notes
+11-21-2017 @ 12:52:54 - For subscription 3355: migrated 0 tax item/s
+11-21-2017 @ 12:52:54 - For subscription 3355: migrated 0 shipping item/s
+11-21-2017 @ 12:52:54 - For subscription 3355: migrated 0 coupon item/s
+11-21-2017 @ 12:52:54 - For subscription 3355: migrated data for renewal orders 
+11-21-2017 @ 12:52:54 - For subscription 3355: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:54 - For subscription 3355: upgrade complete
+11-21-2017 @ 12:52:54 - For order 3061: beginning subscription upgrade process
+11-21-2017 @ 12:52:54 - For subscription 3356: post created
+11-21-2017 @ 12:52:54 - For subscription 3356: new line item ID 1365 added
+11-21-2017 @ 12:52:54 - For subscription 3356: for item 1365 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:54 - For subscription 3356: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:54 - For subscription 3356: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:55 - For subscription 3356: updated dates = trial_end:0,end:0,next_payment:2017-06-11 06:17:54,date_created:2017-05-11 06:17:54
+11-21-2017 @ 12:52:55 - For subscription 3356: 31 rows of post meta added
+11-21-2017 @ 12:52:55 - For subscription 3356: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3356: migrated 3 order notes
+11-21-2017 @ 12:52:55 - For subscription 3356: migrated 0 tax item/s
+11-21-2017 @ 12:52:55 - For subscription 3356: migrated 0 shipping item/s
+11-21-2017 @ 12:52:55 - For subscription 3356: migrated 0 coupon item/s
+11-21-2017 @ 12:52:55 - For subscription 3356: migrated data for renewal orders 
+11-21-2017 @ 12:52:55 - For subscription 3356: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:55 - For subscription 3356: upgrade complete
+11-21-2017 @ 12:52:55 - For order 3063: beginning subscription upgrade process
+11-21-2017 @ 12:52:55 - For subscription 3357: post created
+11-21-2017 @ 12:52:55 - For subscription 3357: new line item ID 1366 added
+11-21-2017 @ 12:52:55 - For subscription 3357: for item 1366 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:55 - For subscription 3357: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3357: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:55 - For subscription 3357: updated dates = trial_end:0,end:0,next_payment:2017-06-11 06:45:00,date_created:2017-05-11 06:45:00
+11-21-2017 @ 12:52:55 - For subscription 3357: 31 rows of post meta added
+11-21-2017 @ 12:52:55 - For subscription 3357: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3357: migrated 3 order notes
+11-21-2017 @ 12:52:55 - For subscription 3357: migrated 0 tax item/s
+11-21-2017 @ 12:52:55 - For subscription 3357: migrated 0 shipping item/s
+11-21-2017 @ 12:52:55 - For subscription 3357: migrated 0 coupon item/s
+11-21-2017 @ 12:52:55 - For subscription 3357: migrated data for renewal orders 
+11-21-2017 @ 12:52:55 - For subscription 3357: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:55 - For subscription 3357: upgrade complete
+11-21-2017 @ 12:52:55 - For order 3065: beginning subscription upgrade process
+11-21-2017 @ 12:52:55 - !!! For order 3065: unable to create subscription. Error: Invalid subscription customer_id.
+11-21-2017 @ 12:52:55 - For order 3067: beginning subscription upgrade process
+11-21-2017 @ 12:52:55 - For subscription 3358: post created
+11-21-2017 @ 12:52:55 - For subscription 3358: new line item ID 1367 added
+11-21-2017 @ 12:52:55 - For subscription 3358: for item 1367 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:55 - For subscription 3358: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3358: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:55 - For subscription 3358: updated dates = trial_end:0,end:0,next_payment:2017-07-03 09:18:45,date_created:2017-06-03 09:18:45
+11-21-2017 @ 12:52:55 - For subscription 3358: 32 rows of post meta added
+11-21-2017 @ 12:52:55 - For subscription 3358: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3358: migrated 3 order notes
+11-21-2017 @ 12:52:55 - For subscription 3358: migrated 0 tax item/s
+11-21-2017 @ 12:52:55 - For subscription 3358: migrated 0 shipping item/s
+11-21-2017 @ 12:52:55 - For subscription 3358: migrated 0 coupon item/s
+11-21-2017 @ 12:52:55 - For subscription 3358: migrated data for renewal orders 
+11-21-2017 @ 12:52:55 - For subscription 3358: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:55 - For subscription 3358: upgrade complete
+11-21-2017 @ 12:52:55 - For order 3070: beginning subscription upgrade process
+11-21-2017 @ 12:52:55 - For subscription 3359: post created
+11-21-2017 @ 12:52:55 - For subscription 3359: new line item ID 1368 added
+11-21-2017 @ 12:52:55 - For subscription 3359: for item 1368 added pa_membership, recurring_line_subtotal, recurring_line_total, recurring_line_subtotal_tax, recurring_line_tax
+11-21-2017 @ 12:52:55 - For subscription 3359: 19 rows of line item meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3359: migrated 0 download permissions for product 0
+11-21-2017 @ 12:52:55 - For subscription 3359: updated dates = trial_end:0,end:0,next_payment:2017-07-19 14:32:28,date_created:2017-06-19 14:32:28
+11-21-2017 @ 12:52:55 - For subscription 3359: 31 rows of post meta added
+11-21-2017 @ 12:52:55 - For subscription 3359: 8 rows of post meta deprecated
+11-21-2017 @ 12:52:55 - For subscription 3359: migrated 3 order notes
+11-21-2017 @ 12:52:55 - For subscription 3359: migrated 0 tax item/s
+11-21-2017 @ 12:52:55 - For subscription 3359: migrated 0 shipping item/s
+11-21-2017 @ 12:52:55 - For subscription 3359: migrated 0 coupon item/s
+11-21-2017 @ 12:52:55 - For subscription 3359: migrated data for renewal orders 
+11-21-2017 @ 12:52:55 - For subscription 3359: 0 rows of renewal order post_parent values changed
+11-21-2017 @ 12:52:55 - For subscription 3359: upgrade complete
+11-21-2017 @ 12:52:55 - Upgrading batch of 50 subscriptions
+11-21-2017 @ 12:52:55 - Upgraded batch of 0 subscriptions
+11-21-2017 @ 12:52:55 - Upgraded batch of 23 subscriptions
+11-21-2017 @ 12:52:55 - 2.2.15 upgrade complete from Subscriptions v1.5.16 while WooCommerce WC_VERSION 3.2.4 and database version 3.2.4 was active.
+11-21-2017 @ 12:52:55 - Completed upgrade step: subscriptions
