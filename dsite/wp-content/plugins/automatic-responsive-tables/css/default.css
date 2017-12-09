@@ -1,0 +1,6 @@
+.art-table,
+.art-table .art-tbody,
+.art-table .art-tbody .art-tr,
+.art-table .art-tbody .art-tr .art-td { width: 100%; display: block; }
+.art-table .art-tbody .art-tr .art-td .art-td-first, .art-table .art-tbody .art-tr .art-td .art-td-last { width: 50%; float: left; padding: 10px; box-sizing: border-box; }
+.art-table .art-tbody .art-tr .art-td .art-clearfix { display: block; clear: both; }
